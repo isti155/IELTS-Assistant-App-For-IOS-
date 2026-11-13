@@ -1,0 +1,31 @@
+{
+ "model": "distilbert-base-cased",
+ "train_essays": 6885,
+ "epochs": 2,
+ "test": {
+  "scored_essays": {
+   "essays": 228,
+   "mae": 0.686,
+   "within_half_band": 0.601,
+   "within_one_band": 0.855,
+   "qwk": 0.644,
+   "baseline_mae": 0.897
+  },
+  "task1_eval": {
+   "essays": 373,
+   "mae": 0.662,
+   "within_half_band": 0.609,
+   "within_one_band": 0.855,
+   "qwk": 0.82,
+   "baseline_mae": 1.286
+  },
+  "task2_eval": {
+   "essays": 344,
+   "mae": 1.078,
+   "within_half_band": 0.395,
+   "within_one_band": 0.64,
+   "qwk": 0.458,
+   "baseline_mae": 1.19
+  }
+ }
+}
