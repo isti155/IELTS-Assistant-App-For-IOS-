@@ -1,0 +1,58 @@
+Building examiner feedback examples…
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Building speaking model-answer examples…
+2608 training and 108 validation examples
+
+$ mlx_lm lora --model mlx-community/Qwen2.5-1.5B-Instruct-4bit --train --data /Users/isti115/CSE Projects/IELTS Assistant /ml/data/llm --iters 500 --batch-size 1 --num-layers 8 --learning-rate 1e-4 --max-seq-length 1400 --steps-per-report 25 --steps-per-eval 200 --val-batches 10 --adapter-path /Users/isti115/CSE Projects/IELTS Assistant /ml/models/ielts-llm-adapter --grad-checkpoint
+Loading pretrained model
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 9 files:  11%|█         | 1/9 [00:00<00:03,  2.46it/s]Fetching 9 files:  22%|██▏       | 2/9 [00:00<00:02,  3.48it/s]Fetching 9 files:  67%|██████▋   | 6/9 [00:00<00:00,  7.98it/s]Fetching 9 files:  78%|███████▊  | 7/9 [00:01<00:00,  7.93it/s]Fetching 9 files:  89%|████████▉ | 8/9 [00:01<00:00,  7.94it/s]Fetching 9 files: 100%|██████████| 9/9 [00:28<00:00,  7.07s/it]Fetching 9 files: 100%|██████████| 9/9 [00:28<00:00,  3.21s/it]
+Loading datasets
+Training
+[34m╭─[0m[34m [0m[1;35mmlx_lm.lora[0m[34m [0m[34m───────────────────────────────────────────────────────────────────────────────────────────────────────[0m[34m─╮[0m
+[34m│[0m    [39mmodel        [0m   [1mmlx-community/Qwen2.5-1.5B-Instruct-4bit[0m                                                          [34m│[0m
+[34m│[0m    [39mtype         [0m   [1mlora · 8 layers · rank 8[0m                                                                          [34m│[0m
+[34m│[0m    [39mdataset      [0m   [1m/Users/isti115/CSE Projects/IELTS Assistant /ml/data/llm[0m                                          [34m│[0m
+[34m│[0m    [39moptimizer    [0m   [1madam · lr 1.0e-04[0m                                                                                 [34m│[0m
+[34m│[0m    [39mbatch · iters[0m   [1m1 · 500[0m                                                                                           [34m│[0m
+[34m│[0m    [39mmax seq      [0m   [1m1,400[0m                                                                                             [34m│[0m
+[34m╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯[0m
+Trainable parameters: 0.171% (2.638M/1543.714M)
+  [1miter   train_loss     tok/s     tokens[0m
+  [38;5;244m   1[0m    [1;35mval[0m [1m2.241[0m    [38;5;244m16.84s[0m
+  [38;5;244m  25[0m    [1;32m1.670 ▼[0m    [1m  304[0m    [38;5;244m 17.6k[0m
+  [38;5;244m  50[0m    [1;32m1.657 ▼[0m    [1m  405[0m    [38;5;244m 39.8k[0m
+  [38;5;244m  75[0m    [1;32m1.564 ▼[0m    [1m  433[0m    [38;5;244m 60.9k[0m
+  [38;5;244m 100[0m    [1;32m1.527 ▼[0m    [1m  429[0m    [38;5;244m 82.5k[0m
+  [1;32msave[0m  [38;5;244m0000100_adapters.safetensors[0m
+  [38;5;244m 125[0m    [1;32m1.523 ▼[0m    [1m  429[0m    [38;5;244m103.4k[0m
+  [38;5;244m 150[0m    [1;32m1.506 ▼[0m    [1m  427[0m    [38;5;244m124.4k[0m
+  [38;5;244m 175[0m    [1;32m1.427 ▼[0m    [1m  426[0m    [38;5;244m145.6k[0m
+  [38;5;244m 200[0m    [1;35mval[0m [1m1.545[0m    [38;5;244m10.34s[0m
+  [38;5;244m 200[0m    [1;33m1.477 ▲[0m    [1m  423[0m    [38;5;244m165.9k[0m
+  [1;32msave[0m  [38;5;244m0000200_adapters.safetensors[0m
+  [38;5;244m 225[0m    [1;32m1.450 ▼[0m    [1m  415[0m    [38;5;244m185.5k[0m
+  [38;5;244m 250[0m    [1;33m1.546 ▲[0m    [1m  432[0m    [38;5;244m207.1k[0m
+  [38;5;244m 275[0m    [1;32m1.528 ▼[0m    [1m  434[0m    [38;5;244m228.7k[0m
+  [38;5;244m 300[0m    [1;32m1.488 ▼[0m    [1m  435[0m    [38;5;244m249.7k[0m
+  [1;32msave[0m  [38;5;244m0000300_adapters.safetensors[0m
+  [38;5;244m 325[0m    [1;32m1.454 ▼[0m    [1m  435[0m    [38;5;244m271.5k[0m
+  [38;5;244m 350[0m    [1;33m1.497 ▲[0m    [1m  438[0m    [38;5;244m293.1k[0m
+  [38;5;244m 375[0m    [1;32m1.428 ▼[0m    [1m  429[0m    [38;5;244m314.3k[0m
+  [38;5;244m 400[0m    [1;35mval[0m [1m1.502[0m    [38;5;244m12.02s[0m
+  [38;5;244m 400[0m    [1;33m1.468 ▲[0m    [1m  428[0m    [38;5;244m337.2k[0m
+  [1;32msave[0m  [38;5;244m0000400_adapters.safetensors[0m
+  [38;5;244m 425[0m    [1;33m1.503 ▲[0m    [1m  415[0m    [38;5;244m357.2k[0m
+  [38;5;244m 450[0m    [1;32m1.458 ▼[0m    [1m  434[0m    [38;5;244m379.2k[0m
+  [38;5;244m 475[0m    [1;32m1.447 ▼[0m    [1m  432[0m    [38;5;244m400.5k[0m
+  [38;5;244m 500[0m    [1;35mval[0m [1m1.564[0m    [38;5;244m10.31s[0m
+  [38;5;244m 500[0m    [1;33m1.449 ▲[0m    [1m  427[0m    [38;5;244m422.3k[0m
+  [1;32msave[0m  [38;5;244m0000500_adapters.safetensors[0m
+[1;34mtrain[0m [34m██████████████████████████████[0m [1;34m100%[0m [38;5;244m·[0m [1;34m  500[0m[38;5;244m/500[0m
+
+$ mlx_lm fuse --model mlx-community/Qwen2.5-1.5B-Instruct-4bit --adapter-path /Users/isti115/CSE Projects/IELTS Assistant /ml/models/ielts-llm-adapter --save-path /Users/isti115/CSE Projects/IELTS Assistant /ml/models/ielts-llm
+Loading pretrained model
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 3932.98it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Model written to /Users/isti115/CSE Projects/IELTS Assistant /ml/models/ielts-llm

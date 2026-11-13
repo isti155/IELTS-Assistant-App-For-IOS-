@@ -1,0 +1,99 @@
+device=mps train=6885 val=769 test=945
+[transformers] Token indices sequence length is longer than the specified maximum sequence length for this model (517 > 512). Running this sequence through the model will result in indexing errors
+tokenised in 7s
+W1112 02:42:47.203000 25086 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/100 [00:00<?, ?it/s]Loading weights: 100%|██████████| 100/100 [00:00<00:00, 2394.58it/s]
+[transformers] [1mDistilBertModel LOAD REPORT[0m from: distilbert-base-cased
+Key                     | Status     |  | 
+------------------------+------------+--+-
+vocab_projector.bias    | UNEXPECTED |  | 
+vocab_transform.weight  | UNEXPECTED |  | 
+vocab_transform.bias    | UNEXPECTED |  | 
+vocab_layer_norm.bias   | UNEXPECTED |  | 
+vocab_layer_norm.weight | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+epoch 1 step 100/1722 loss 0.18564 (216s)
+epoch 1 step 200/1722 loss 0.03022 (416s)
+epoch 1 step 300/1722 loss 0.02613 (623s)
+epoch 1 step 400/1722 loss 0.02864 (851s)
+epoch 1 step 500/1722 loss 0.02603 (1038s)
+epoch 1 step 600/1722 loss 0.02305 (1228s)
+epoch 1 step 700/1722 loss 0.02557 (1437s)
+epoch 1 step 800/1722 loss 0.01794 (1640s)
+  val epoch 1 scored_essays: {'essays': 56, 'mae': 0.679, 'within_half_band': 0.625, 'within_one_band': 0.821, 'qwk': 0.477, 'baseline_mae': 0.821}
+  val epoch 1 task1_eval: {'essays': 354, 'mae': 0.826, 'within_half_band': 0.503, 'within_one_band': 0.749, 'qwk': 0.702, 'baseline_mae': 1.349}
+  val epoch 1 task2_eval: {'essays': 359, 'mae': 1.118, 'within_half_band': 0.401, 'within_one_band': 0.602, 'qwk': 0.32, 'baseline_mae': 1.142}
+epoch 2 step 900/1722 loss 0.00695 (1881s)
+epoch 2 step 1000/1722 loss 0.01829 (2093s)
+epoch 2 step 1100/1722 loss 0.01477 (2293s)
+epoch 2 step 1200/1722 loss 0.01392 (2507s)
+epoch 2 step 1300/1722 loss 0.01377 (2696s)
+epoch 2 step 1400/1722 loss 0.01311 (2917s)
+epoch 2 step 1500/1722 loss 0.01468 (3127s)
+epoch 2 step 1600/1722 loss 0.01408 (3313s)
+epoch 2 step 1700/1722 loss 0.01384 (3497s)
+  val epoch 2 scored_essays: {'essays': 56, 'mae': 0.705, 'within_half_band': 0.571, 'within_one_band': 0.875, 'qwk': 0.584, 'baseline_mae': 0.821}
+  val epoch 2 task1_eval: {'essays': 354, 'mae': 0.669, 'within_half_band': 0.641, 'within_one_band': 0.847, 'qwk': 0.817, 'baseline_mae': 1.349}
+  val epoch 2 task2_eval: {'essays': 359, 'mae': 1.029, 'within_half_band': 0.443, 'within_one_band': 0.652, 'qwk': 0.47, 'baseline_mae': 1.142}
+  TEST scored_essays: {'essays': 228, 'mae': 0.686, 'within_half_band': 0.601, 'within_one_band': 0.855, 'qwk': 0.644, 'baseline_mae': 0.897}
+  TEST task1_eval: {'essays': 373, 'mae': 0.662, 'within_half_band': 0.609, 'within_one_band': 0.855, 'qwk': 0.82, 'baseline_mae': 1.286}
+  TEST task2_eval: {'essays': 344, 'mae': 1.078, 'within_half_band': 0.395, 'within_one_band': 0.64, 'qwk': 0.458, 'baseline_mae': 1.19}
+scikit-learn version 1.9.1 is not supported. Minimum required version: 0.17. Maximum required version: 1.5.1. Disabling scikit-learn conversion API.
+Torch version 2.15.0 has not been tested with coremltools. You may run into unexpected errors. Torch 2.7.0 is the most recent version that has been tested.
+/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/torch/jit/_trace.py:1006: FutureWarning: `torch.jit.trace` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/torch/jit/_trace.py:1145: FutureWarning: `torch.jit.trace_method` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+[transformers] `loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/transformers/masking_utils.py:208: TracerWarning: Converting a tensor to a Python boolean might cause the trace to be incorrect. We can't record the data flow of Python values, so this value will be treated as a constant in the future. This means that the trace might not generalize to other inputs!
+  if (padding_length := kv_length + kv_offset - attention_mask.shape[-1]) > 0:
+/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/transformers/integrations/sdpa_attention.py:140: TracerWarning: Converting a tensor to a Python boolean might cause the trace to be incorrect. We can't record the data flow of Python values, so this value will be treated as a constant in the future. This means that the trace might not generalize to other inputs!
+  is_causal = q_length > 1 and attention_mask is None and is_causal
+Converting PyTorch Frontend ==> MIL Ops:   0%|          | 0/260 [00:00<?, ? ops/s]Core ML embedding (gather) layer does not support any inputs besides the weights and indices. Those given will be ignored.
+Saving value type of int64 into a builtin type of int32, might lose precision!
+Saving value type of int64 into a builtin type of int32, might lose precision!
+Saving value type of int64 into a builtin type of int32, might lose precision!
+
+
+ERROR - converting 'new_ones' op (located at: 'scorer/encoder/result.1'):
+
+Converting PyTorch Frontend ==> MIL Ops:  20%|██        | 52/260 [00:00<00:00, 4654.87 ops/s]
+Traceback (most recent call last):
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/scripts/train_scorer.py", line 204, in <module>
+    mlmodel = ct.convert(
+              ^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/_converters_entry.py", line 646, in convert
+    mlmodel = mil_convert(
+              ^^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/converter.py", line 186, in mil_convert
+    return _mil_convert(
+           ^^^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/converter.py", line 218, in _mil_convert
+    proto, mil_program = mil_convert_to_proto(
+                         ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/converter.py", line 294, in mil_convert_to_proto
+    prog = frontend_converter(model, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/converter.py", line 106, in __call__
+    return load(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/frontend/torch/load.py", line 87, in load
+    return _perform_torch_convert(converter, debug)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/frontend/torch/load.py", line 158, in _perform_torch_convert
+    raise e
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/frontend/torch/load.py", line 150, in _perform_torch_convert
+    prog = converter.convert()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/frontend/torch/converter.py", line 1392, in convert
+    convert_nodes(self.context, self.graph, early_exit=not has_states)
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/frontend/torch/ops.py", line 118, in convert_nodes
+    raise e     # re-raise exception
+    ^^^^^^^
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/frontend/torch/ops.py", line 113, in convert_nodes
+    convert_single_node(context, node)
+  File "/Users/isti115/CSE Projects/IELTS Assistant /ml/.venv/lib/python3.12/site-packages/coremltools/converters/mil/frontend/torch/ops.py", line 143, in convert_single_node
+    raise NotImplementedError(
+NotImplementedError: PyTorch convert function for op 'new_ones' not implemented.
