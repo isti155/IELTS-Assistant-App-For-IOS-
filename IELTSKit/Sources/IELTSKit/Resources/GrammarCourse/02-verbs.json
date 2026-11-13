@@ -1,0 +1,158 @@
+{"id":"verbs","title":"Modals, verb patterns and the passive","symbol":"hand.raised.fill","color":"indigo","units":[
+{"id":"modals-ability","title":"can, could, be able to","level":"B1","ielts":1,"skills":["Speaking"],
+"summary":"Ability, permission and requests.",
+"cards":[
+{"kind":"rule","title":"Ability","body":"**can / can't** for present ability, **could / couldn't** for general past ability, **be able to** for other tenses and for one specific achievement in the past.","examples":["I can speak three languages.","When I was five, I could swim.","I will be able to drive next year.","Despite the traffic, we were able to arrive on time."]},
+{"kind":"rule","title":"Permission and requests","body":"**Can I…? / Could I…? / May I…?** ask permission; **could** and **may** are more polite.","examples":["Could you repeat the question, please?"]},
+{"kind":"mistakes","items":[["I can to play the guitar.","I can play the guitar.","No 'to' after modal verbs."],["I will can help you.","I will be able to help you.","Two modals cannot go together."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Asking the examiner to repeat politely is allowed and natural.","examples":["Sorry, could you say that again, please?"]}],
+"practice":[
+{"t":"choice","q":"I ___ ride a bicycle when I was six.","o":["could","can"],"a":"could","x":"General past ability."},
+{"t":"error","q":"After the training, she will [can] use the software.","c":"be able to","x":"'Can' has no future form."},
+{"t":"gap","q":"Although the exam was difficult, I ___ (able) to finish it.","a":["was able"],"x":"A specific past achievement."},
+{"t":"pick","q":"Which is correct?","o":["Can you to help me?","Could you help me?","Could you helping me?"],"a":"Could you help me?","x":"Modal + base verb."},
+{"t":"choice","q":"Without a visa, you ___ enter the country.","o":["can't","couldn't to"],"a":"can't","x":"Present inability."},
+{"t":"build","q":"Put the words in order.","a":"Could you repeat the question, please?"}]},
+
+{"id":"modals-obligation","title":"must, have to, should, need to","level":"B1","ielts":2,"skills":["Writing Task 2","Speaking Part 3"],
+"summary":"Obligation, necessity, prohibition and advice.",
+"cards":[
+{"kind":"rule","title":"Obligation and advice","body":"- **must**: strong obligation, often the speaker's opinion or a rule\n- **have to**: obligation from outside (rules, laws)\n- **should / ought to**: advice or recommendation\n- **need to**: necessity","examples":["Governments should invest more in public transport.","Drivers have to wear seat belts.","We need to reduce plastic waste."]},
+{"kind":"rule","title":"Negatives are different","body":"**mustn't** = it is prohibited. **don't have to / don't need to** = it is not necessary.","examples":["You mustn't use your phone in the exam.","You don't have to bring a pen; we provide one."]},
+{"kind":"mistakes","items":[["Students must to wear uniforms.","Students must wear uniforms.","No 'to' after must."],["You mustn't come tomorrow — it's a holiday.","You don't have to come tomorrow — it's a holiday.","No necessity, not prohibition."],["Government should invests in health.","The government should invest in health.","Base verb after should."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Task 2 solution and opinion essays depend on **should**. Vary it with *ought to*, *it is essential that*, *it would be wise to*.","examples":["Governments ought to make healthy food cheaper.","It is essential that children learn to manage money."]}],
+"practice":[
+{"t":"choice","q":"In many countries, children ___ attend school until 16. It's the law.","o":["have to","should"],"a":"have to","x":"External obligation."},
+{"t":"choice","q":"You ___ smoke in the hospital.","o":["mustn't","don't have to"],"a":"mustn't","x":"Prohibition."},
+{"t":"choice","q":"It's free, so you ___ pay.","o":["mustn't","don't have to"],"a":"don't have to","x":"Not necessary."},
+{"t":"error","q":"I think parents should [encouraging] children to read.","c":"encourage","x":"should + base verb."},
+{"t":"gap","q":"Governments ___ (ought) to provide free healthcare.","a":["ought"],"x":"ought to = should."},
+{"t":"pick","q":"Which sentence is correct?","o":["Citizens must to pay taxes.","Citizens have to pay taxes.","Citizens have pay taxes."],"a":"Citizens have to pay taxes.","x":"have to + base verb."},
+{"t":"build","q":"Put the words in order.","a":"Governments should invest more in renewable energy."}]},
+
+{"id":"modals-possibility","title":"may, might, could, must, can't (possibility and deduction)","level":"B2","ielts":3,"skills":["Writing Task 2","Speaking Part 3"],
+"summary":"How sure you are — and how to avoid sounding too certain.",
+"cards":[
+{"kind":"rule","title":"Degrees of certainty","body":"- **must** = I'm almost sure it's true\n- **may / might / could** = it's possible\n- **can't** = I'm almost sure it's not true","examples":["She must be tired — she worked all night.","This policy might reduce traffic.","That can't be right; the figures don't add up."]},
+{"kind":"rule","title":"Possibility in the past","body":"**must have / might have / can't have + past participle** for deductions about the past.","examples":["He must have missed the bus.","They might have forgotten the meeting."]},
+{"kind":"mistakes","items":[["Technology can causes problems.","Technology can cause problems.","Modal + base verb."],["It mustn't be true.","It can't be true.","For deduction, the opposite of 'must' is 'can't'."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Strong band 7+ essays **hedge** claims: *may*, *could*, *might*, *is likely to*. 'Technology destroys families' is weaker than 'Technology may weaken family relationships'.","examples":["Banning cars from city centres could improve air quality considerably.","Such measures might be unpopular at first."]}],
+"practice":[
+{"t":"choice","q":"He's been running for an hour. He ___ be exhausted.","o":["must","can't"],"a":"must","x":"Strong logical conclusion."},
+{"t":"choice","q":"She's in Paris this week, so she ___ be at the meeting in Dhaka.","o":["must","can't"],"a":"can't","x":"Logically impossible."},
+{"t":"choice","q":"Which sentence is more academic?","o":["Social media destroys teenagers' mental health.","Social media may harm some teenagers' mental health."],"a":"Social media may harm some teenagers' mental health.","x":"Hedged, precise claims are stronger in Task 2."},
+{"t":"error","q":"This policy could [reduces] unemployment.","c":"reduce","x":"Modal + base verb."},
+{"t":"gap","q":"The keys aren't here. I must ___ (leave) them in the car.","a":["have left"],"x":"Past deduction: must have + past participle."},
+{"t":"pick","q":"Which sentence is correct?","o":["They might have forgot the date.","They might have forgotten the date.","They might forgotten the date."],"a":"They might have forgotten the date.","x":"might have + past participle."},
+{"t":"build","q":"Put the words in order.","a":"Higher taxes on sugar could reduce obesity rates."}]},
+
+{"id":"past-modals","title":"should have, could have, would have","level":"B2","ielts":2,"skills":["Speaking Part 2","Speaking Part 3"],
+"summary":"Regrets, criticism and unreal past possibilities.",
+"cards":[
+{"kind":"rule","title":"Looking back","body":"- **should have + pp**: it was the right thing, but it didn't happen (regret/criticism)\n- **could have + pp**: it was possible, but it didn't happen\n- **would have + pp**: imagined past result (often with if)","examples":["I should have started preparing earlier.","The government could have acted sooner.","I would have gone, but I was ill."]},
+{"kind":"mistakes","items":[["I should have went.","I should have gone.","Use the past participle."],["I should of studied harder.","I should have studied harder.","'Of' is a spelling of the sound, not the grammar."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Part 2 cue cards often end with 'explain how you felt'. Past modals show reflection and grammatical range.","examples":["Looking back, I should have asked for help much sooner."]}],
+"practice":[
+{"t":"choice","q":"I failed the test. I ___ more.","o":["should have studied","should study"],"a":"should have studied","x":"Regret about the past."},
+{"t":"error","q":"We could have [took] a taxi, but we walked.","c":"taken","x":"Past participle of take."},
+{"t":"error","q":"You should [of] told me earlier.","c":"have","x":"should have, never 'should of'."},
+{"t":"gap","q":"If I had known, I ___ (would / help) you.","a":["would have helped"],"x":"Unreal past result."},
+{"t":"pick","q":"Which sentence is correct?","o":["The accident could have been avoided.","The accident could have be avoided.","The accident could been avoided."],"a":"The accident could have been avoided.","x":"Passive: could have been + pp."},
+{"t":"build","q":"Put the words in order.","a":"I should have booked the tickets earlier."}]},
+
+{"id":"gerund-infinitive","title":"Verb + -ing or to-infinitive","level":"B1","ielts":3,"skills":["Writing Task 2","Speaking"],
+"summary":"Which verbs are followed by -ing, which by to, and which by both.",
+"cards":[
+{"kind":"rule","title":"Verb + -ing","body":"**enjoy, avoid, consider, suggest, admit, deny, finish, mind, practise, risk, involve, keep, can't help**","examples":["Many people avoid using public transport.","I suggest taking a short break."]},
+{"kind":"rule","title":"Verb + to-infinitive","body":"**want, decide, plan, hope, expect, agree, refuse, manage, afford, tend, fail, learn, aim, seem**","examples":["Young people tend to spend more time online.","Many families cannot afford to buy a house."]},
+{"kind":"rule","title":"Both, with a change in meaning","body":"**stop, remember, forget, try**","examples":["I stopped smoking. (I quit)","I stopped to smoke. (I paused in order to smoke)","Remember to lock the door. (future duty)","I remember locking the door. (memory of the past)"]},
+{"kind":"rule","title":"After prepositions: always -ing","body":"After **in, of, about, by, without, before, instead of, interested in, good at, look forward to** use -ing.","examples":["Instead of driving, more people should cycle.","I'm looking forward to hearing from you."]},
+{"kind":"mistakes","items":[["I enjoy to read novels.","I enjoy reading novels.","enjoy + -ing."],["People should avoid to eat junk food.","People should avoid eating junk food.","avoid + -ing."],["They decided building a new road.","They decided to build a new road.","decide + to."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"These patterns appear in almost every Task 2 essay. Errors here are noticed quickly by examiners.","examples":["Governments should consider introducing a sugar tax.","Many graduates struggle to find suitable jobs."]}],
+"practice":[
+{"t":"choice","q":"I'm considering ___ abroad.","o":["studying","to study"],"a":"studying","x":"consider + -ing."},
+{"t":"choice","q":"Many young people hope ___ a good job after university.","o":["finding","to find"],"a":"to find","x":"hope + to."},
+{"t":"gap","q":"The government refused ___ (lower) taxes.","a":["to lower"],"x":"refuse + to."},
+{"t":"gap","q":"You can save money by ___ (cook) at home.","a":["cooking"],"x":"Preposition + -ing."},
+{"t":"error","q":"Children should avoid [to spend] too long on screens.","c":"spending","x":"avoid + -ing."},
+{"t":"error","q":"Most people cannot afford [buying] a house in the city.","c":"to buy","x":"afford + to."},
+{"t":"choice","q":"On the way home, I stopped ___ some bread.","o":["to buy","buying"],"a":"to buy","x":"Stop in order to do something."},
+{"t":"pick","q":"Which sentence is correct?","o":["I look forward to meet you.","I look forward to meeting you.","I look forward meeting you."],"a":"I look forward to meeting you.","x":"'To' is a preposition here → -ing."},
+{"t":"build","q":"Put the words in order.","a":"Governments should encourage people to use public transport."}]},
+
+{"id":"verb-object-infinitive","title":"make, let, help, allow, encourage","level":"B2","ielts":2,"skills":["Writing Task 2"],
+"summary":"Verbs followed by an object and an infinitive — with or without 'to'.",
+"cards":[
+{"kind":"rule","title":"Without 'to'","body":"**make + object + base verb**, **let + object + base verb**, **help + object + (to) base verb**","examples":["Strict rules make students work harder.","My parents let me choose my subject.","Technology helps people (to) communicate."]},
+{"kind":"rule","title":"With 'to'","body":"**allow, enable, encourage, force, persuade, require, want, ask, advise + object + to-infinitive**","examples":["Online courses allow students to study at their own pace.","Higher prices may encourage people to buy less."]},
+{"kind":"mistakes","items":[["The internet allows people communicate.","The internet allows people to communicate.","allow + object + to."],["They made me to wait.","They made me wait.","make + object + base verb."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"These verbs describe causes and effects — the heart of many Task 2 arguments.","examples":["Flexible working hours enable parents to spend more time with their children."]}],
+"practice":[
+{"t":"choice","q":"Good teachers make lessons ___ interesting.","o":["seem","to seem"],"a":"seem","x":"make + object + base verb."},
+{"t":"choice","q":"Scholarships enable poorer students ___ university.","o":["attend","to attend"],"a":"to attend","x":"enable + object + to."},
+{"t":"error","q":"Parents should not let children [to play] games all day.","c":"play","x":"let + object + base verb."},
+{"t":"error","q":"The new law will force companies [reduce] emissions.","c":"to reduce","x":"force + object + to."},
+{"t":"pick","q":"Which sentence is correct?","o":["Smartphones allow us stay connected.","Smartphones allow us to stay connected.","Smartphones allow to us stay connected."],"a":"Smartphones allow us to stay connected.","x":"allow + object + to."},
+{"t":"build","q":"Put the words in order.","a":"Free museums encourage people to learn about history."}]},
+
+{"id":"passive-forms","title":"The passive: forms","level":"B1","ielts":3,"skills":["Writing Task 1","Writing Task 2"],
+"summary":"Focus on the action or the result, not on who does it.",
+"cards":[
+{"kind":"rule","title":"When to use the passive","body":"Use the passive when **who does the action is unknown, unimportant or obvious**, or when you want to focus on the result.","examples":["The bridge was built in 1998.","Millions of plastic bottles are thrown away every day.","The results will be announced next week."]},
+{"kind":"form","title":"be + past participle","rows":[["Present simple","is / are made"],["Present continuous","is / are being made"],["Past simple","was / were made"],["Present perfect","has / have been made"],["Future","will be made"],["Modal","can / should / must be made"]]},
+{"kind":"mistakes","items":[["The museum was build in 1900.","The museum was built in 1900.","Use the past participle."],["English is speak in many countries.","English is spoken in many countries.","be + past participle."],["The problem has solved.","The problem has been solved.","Present perfect passive needs 'been'."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"The passive gives an objective, academic tone and shows grammatical range.","examples":["More money should be spent on public health.","A new car park was built to the north of the station."]}],
+"practice":[
+{"t":"gap","q":"Rice ___ (grow) in many parts of Asia.","a":["is grown"],"x":"Present simple passive."},
+{"t":"gap","q":"The town hall ___ (destroy) by fire in 1950.","a":["was destroyed"],"x":"Past simple passive."},
+{"t":"gap","q":"Several new schools ___ (build) since 2015.","a":["have been built"],"x":"Present perfect passive."},
+{"t":"error","q":"Stricter laws should be [introduce] to protect wildlife.","c":"introduced","x":"Modal passive: should be + pp."},
+{"t":"error","q":"The road is [repair] at the moment, so expect delays.","c":"being repaired","x":"Present continuous passive."},
+{"t":"pick","q":"Which sentence is correct?","o":["The winners will announced tomorrow.","The winners will be announced tomorrow.","The winners will be announce tomorrow."],"a":"The winners will be announced tomorrow.","x":"will be + pp."},
+{"t":"build","q":"Rewrite in the passive: 'People recycle millions of tonnes of paper every year.'","a":"Millions of tonnes of paper are recycled every year."}]},
+
+{"id":"passive-academic","title":"The passive in academic writing","level":"B2","ielts":3,"skills":["Writing Task 1","Writing Task 2"],
+"summary":"Process diagrams, maps and impersonal reporting: 'It is believed that…'.",
+"cards":[
+{"kind":"rule","title":"Processes","body":"Describe each stage in the **present simple passive** with sequencing words.","examples":["First, the leaves are picked by hand.","They are then dried and crushed.","Finally, the tea is packed and transported to shops."]},
+{"kind":"rule","title":"Maps","body":"Describe changes with the **past simple** or **present perfect passive**.","examples":["The old factory was demolished.","A park has been created in place of the car park."]},
+{"kind":"rule","title":"Impersonal reporting","body":"**It is said / believed / thought / argued that…** and **X is believed to…** present views objectively.","examples":["It is often argued that university education should be free.","Exercise is known to reduce stress."]},
+{"kind":"mistakes","items":[["The cocoa beans dry in the sun.","The cocoa beans are dried in the sun.","People do the drying → passive."],["It is believe that…","It is believed that…","Past participle."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Process diagrams are almost impossible to describe well without the passive.","examples":["Once the clay has been shaped, it is fired in a kiln at 1,000°C."]}],
+"practice":[
+{"t":"gap","q":"Next, the mixture ___ (heat) to 200 degrees.","a":["is heated"],"x":"Process → present passive."},
+{"t":"gap","q":"Between 1990 and 2010, the trees ___ (cut) down to make way for houses.","a":["were cut"],"x":"Map change in the past."},
+{"t":"gap","q":"It ___ (widely / believe) that exercise improves memory.","a":["is widely believed"],"x":"Impersonal passive."},
+{"t":"error","q":"After that, the bottles [fill] with water.","c":"are filled","x":"The bottles don't fill themselves → passive."},
+{"t":"choice","q":"Smoking ___ to cause many diseases.","o":["is known","knows"],"a":"is known","x":"X is known to…"},
+{"t":"pick","q":"Which describes a map change correctly?","o":["The library has been converted into a café.","The library has converted into a café.","The library converted into a café by them."],"a":"The library has been converted into a café.","x":"Present perfect passive."},
+{"t":"build","q":"Put the words in order.","a":"Finally, the finished products are delivered to supermarkets."}]},
+
+{"id":"causative","title":"have / get something done","level":"B2","ielts":1,"skills":["Speaking"],
+"summary":"Arranging for someone else to do something for you.",
+"cards":[
+{"kind":"rule","title":"Form and use","body":"**have / get + object + past participle** = someone does it for you.","examples":["I had my hair cut yesterday.","We're getting our house painted.","You should get your eyes tested."]},
+{"kind":"mistakes","items":[["I cut my hair at the barber's.","I had my hair cut at the barber's.","Someone else did it."],["I had repaired my phone.","I had my phone repaired.","Object comes before the past participle."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"A natural, less common structure that can lift Speaking grammar range.","examples":["I usually get my clothes made by a local tailor."]}],
+"practice":[
+{"t":"choice","q":"I need to ___ before the wedding.","o":["have my suit cleaned","clean have my suit"],"a":"have my suit cleaned","x":"have + object + pp."},
+{"t":"error","q":"She got her car [repair] last week.","c":"repaired","x":"Past participle."},
+{"t":"gap","q":"We're having the kitchen ___ (paint).","a":["painted"],"x":"have + object + pp."},
+{"t":"pick","q":"Which sentence means someone else did it?","o":["I washed my car.","I had my car washed.","I was washing my car."],"a":"I had my car washed.","x":"Causative."},
+{"t":"build","q":"Put the words in order.","a":"I had my passport renewed last month."}]},
+
+{"id":"phrasal-verbs","title":"Phrasal verbs and formal alternatives","level":"B1","ielts":1,"skills":["Speaking","Writing Task 2"],
+"summary":"Use phrasal verbs in speaking; prefer formal verbs in essays.",
+"cards":[
+{"kind":"rule","title":"What they are","body":"A **verb + particle** with a new meaning: *give up* (stop), *look into* (investigate), *come up with* (think of).","examples":["I gave up sugar last year.","We need to come up with a better plan."]},
+{"kind":"form","title":"Informal → formal","rows":[["find out","discover"],["go up / go down","increase / decrease"],["cut down on","reduce"],["put off","postpone"],["look into","investigate"],["bring about","cause"],["set up","establish"],["carry out","conduct"]]},
+{"kind":"mistakes","items":[["Sales went up sharply. (Task 1)","Sales increased sharply.","More formal for academic writing."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Natural phrasal verbs help **Speaking** Lexical Resource; formal single verbs suit **Task 1 and 2**.","examples":["Speaking: I've taken up running recently.","Writing: Governments should conduct more research into renewable energy."]}],
+"practice":[
+{"t":"choice","q":"Formal Task 2 version: 'We must cut down on plastic.'","o":["We must reduce plastic use.","We must cut plastic down."],"a":"We must reduce plastic use.","x":"Formal alternative."},
+{"t":"choice","q":"'The meeting has been put off.' means…","o":["postponed","cancelled for ever"],"a":"postponed","x":"put off = postpone."},
+{"t":"choice","q":"Task 1: 'The number of visitors ___ from 2 to 5 million.'","o":["went up","increased"],"a":"increased","x":"More academic."},
+{"t":"gap","q":"Scientists carried ___ an experiment to test the theory.","a":["out"],"x":"carry out = conduct."},
+{"t":"pick","q":"Which is best in a formal essay?","o":["The government should look into the problem.","The government should investigate the problem."],"a":"The government should investigate the problem.","x":"Formal verb."},
+{"t":"build","q":"Put the words in order.","a":"The company was established in 1995."}]}
+]}

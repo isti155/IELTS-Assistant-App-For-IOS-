@@ -1,0 +1,147 @@
+{"id":"describing","title":"Adjectives, adverbs, comparison and prepositions","symbol":"paintpalette.fill","color":"orange","units":[
+{"id":"adjective-adverb","title":"Adjectives and adverbs","level":"B1","ielts":2,"skills":["Writing Task 1","Speaking"],
+"summary":"Adjectives describe nouns; adverbs describe verbs, adjectives and whole sentences.",
+"cards":[
+{"kind":"rule","title":"Which one?","body":"Adjectives describe **nouns** (a sharp rise). Adverbs describe **verbs** (rose sharply), **adjectives** (extremely expensive) and **sentences** (Surprisingly, …).","examples":["There was a slight decrease.","The number decreased slightly.","Public transport is relatively cheap."]},
+{"kind":"rule","title":"Linking verbs take adjectives","body":"After **be, seem, look, sound, feel, become, remain**, use an adjective, not an adverb.","examples":["The figure remained stable.","The plan sounds reasonable."]},
+{"kind":"form","title":"Task 1 pairs","rows":[["a sharp rise","rose sharply"],["a steady fall","fell steadily"],["a gradual increase","increased gradually"],["a dramatic drop","dropped dramatically"],["a slight decline","declined slightly"],["a significant change","changed significantly"]]},
+{"kind":"mistakes","items":[["The price rose sharp.","The price rose sharply.","Adverb with a verb."],["There was a significantly increase.","There was a significant increase.","Adjective with a noun."],["The number remained stably.","The number remained stable.","'Remain' takes an adjective."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Switching between **verb + adverb** and **adjective + noun** shows grammatical range in Task 1.","examples":["Sales rose dramatically in 2010, followed by a gradual decline."]}],
+"practice":[
+{"t":"choice","q":"The population grew ___ between 2000 and 2010.","o":["steady","steadily"],"a":"steadily","x":"Adverb describes 'grew'."},
+{"t":"choice","q":"There was a ___ fall in prices.","o":["dramatic","dramatically"],"a":"dramatic","x":"Adjective describes 'fall'."},
+{"t":"choice","q":"The figure remained ___ at 20%.","o":["constant","constantly"],"a":"constant","x":"'Remain' + adjective."},
+{"t":"error","q":"Unemployment declined [slight] in 2015.","c":"slightly","x":"Adverb with a verb."},
+{"t":"error","q":"There was a [considerably] increase in tourism.","c":"considerable","x":"Adjective with a noun."},
+{"t":"pick","q":"Which sentence is correct?","o":["The plan sounds well.","The plan sounds good.","The plan sounds goodly."],"a":"The plan sounds good.","x":"'Sound' + adjective."},
+{"t":"build","q":"Change to adjective + noun: 'Exports fell sharply.'","a":"There was a sharp fall in exports."}]},
+
+{"id":"comparatives-superlatives","title":"Comparatives and superlatives","level":"B1","ielts":3,"skills":["Writing Task 1","Writing Task 2"],
+"summary":"Comparing two things, or one with all the others.",
+"cards":[
+{"kind":"rule","title":"Short adjectives","body":"One syllable (and two ending in -y): **-er / the -est**. cheap → cheaper → the cheapest; busy → busier → the busiest; big → bigger → the biggest.","examples":["Trains are faster than buses.","Tokyo is the largest city in the world."]},
+{"kind":"rule","title":"Longer adjectives","body":"**more / the most**; **less / the least**.","examples":["Online courses are more flexible than classes.","Coal was the least popular source by 2020."]},
+{"kind":"form","title":"Irregular","rows":[["good","better · the best"],["bad","worse · the worst"],["far","further / farther · the furthest"],["much / many","more · the most"],["little","less · the least"]]},
+{"kind":"mistakes","items":[["more cheaper","cheaper","Not both -er and more."],["the most highest","the highest","Not both -est and most."],["more good","better","Irregular."],["than me / than I","Both are fine; 'than I do' is formal.","—"]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Task 1 asks you to 'make comparisons where relevant' — comparatives and superlatives are essential.","examples":["Germany had the highest rate of recycling, whereas Spain had the lowest."]}],
+"practice":[
+{"t":"choice","q":"Cycling is ___ than driving.","o":["more healthy","healthier"],"a":"healthier","x":"Two syllables ending in -y → -ier."},
+{"t":"choice","q":"This was ___ result of the four countries.","o":["the worst","the baddest"],"a":"the worst","x":"Irregular superlative."},
+{"t":"gap","q":"Rents in the capital are ___ (expensive) than in other cities.","a":["more expensive"],"x":"Long adjective → more."},
+{"t":"error","q":"Electric cars are [more cheaper] to run.","c":"cheaper","x":"Don't use more with -er."},
+{"t":"error","q":"It was the most [highest] figure in the table.","c":"high","x":"Use 'the highest' or 'the most…'."},
+{"t":"pick","q":"Which sentence is correct?","o":["China produced the most rice of all countries.","China produced the more rice of all countries.","China produced most rice than all countries."],"a":"China produced the most rice of all countries.","x":"Superlative."},
+{"t":"build","q":"Put the words in order.","a":"Trains are generally faster than buses."}]},
+
+{"id":"comparison-structures","title":"Advanced comparison: as…as, twice as, far more","level":"B2","ielts":3,"skills":["Writing Task 1"],
+"summary":"Precise comparisons with modifiers and multiples.",
+"cards":[
+{"kind":"rule","title":"Equality and multiples","body":"**as + adjective + as**, **not as … as**, **twice / three times as … as**, **half as many … as**.","examples":["Japan spent twice as much as Korea.","Women were not as likely as men to cycle.","There were three times as many cars as in 1990."]},
+{"kind":"rule","title":"Modifying comparatives","body":"Big difference: **far, much, considerably, significantly** + comparative. Small difference: **slightly, a little, marginally**.","examples":["Rents are far higher in the capital.","The figure was slightly lower in 2010."]},
+{"kind":"rule","title":"the … the …","body":"Two changes connected: **the more … , the more …**","examples":["The more people drive, the worse the air becomes."]},
+{"kind":"mistakes","items":[["two times more bigger","twice as big","Use 'twice as + adjective + as'."],["very more expensive","much / far more expensive","Use much/far with comparatives."],["as same as","the same as","Fixed phrase."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Precise comparisons are exactly what 'make comparisons where relevant' rewards.","examples":["The USA consumed nearly three times as much energy per person as China."]}],
+"practice":[
+{"t":"choice","q":"Prices in 2020 were ___ higher than in 2010.","o":["very","considerably"],"a":"considerably","x":"Modifier for comparatives."},
+{"t":"gap","q":"Men were twice as likely ___ women to drive to work.","a":["as"],"x":"twice as … as."},
+{"t":"choice","q":"___ you practise, the more fluent you become.","o":["More","The more"],"a":"The more","x":"the … the …"},
+{"t":"error","q":"The figure for France was [as same as] Italy's.","c":"the same as","x":"Fixed phrase."},
+{"t":"error","q":"Rents are [very] higher in Dhaka than in Rajshahi.","c":"much","x":"'Very' cannot modify a comparative."},
+{"t":"pick","q":"Which sentence is correct?","o":["Spain had half as many tourists as France.","Spain had half many tourists than France.","Spain had as half many tourists as France."],"a":"Spain had half as many tourists as France.","x":"half as many … as."},
+{"t":"build","q":"Put the words in order.","a":"The figure was slightly lower than in the previous year."}]},
+
+{"id":"adverbs-position","title":"Adverbs of frequency and degree; word order","level":"B1","ielts":2,"skills":["Speaking","Writing Task 2"],
+"summary":"Where adverbs go in a sentence.",
+"cards":[
+{"kind":"rule","title":"Frequency adverbs","body":"**always, usually, often, sometimes, rarely, seldom, never** go **before the main verb** but **after be** and after the first auxiliary.","examples":["I usually walk to work.","She is always late.","I have never been abroad."]},
+{"kind":"rule","title":"Degree adverbs","body":"**extremely, highly, quite, fairly, rather, slightly** go before adjectives and adverbs.","examples":["It is highly unlikely.","The rise was fairly gradual."]},
+{"kind":"rule","title":"Don't split verb and object","body":"Do not put an adverb **between a verb and its object**.","examples":["I speak English well. (not 'I speak well English')"]},
+{"kind":"mistakes","items":[["I go always to the gym.","I always go to the gym.","Before the main verb."],["She speaks very well English.","She speaks English very well.","Not between verb and object."],["He never is late.","He is never late.","After be."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Word-order errors with adverbs are frequent in Speaking Part 1. Get them right automatically.","examples":["I rarely watch television these days; I mostly use streaming apps."]}],
+"practice":[
+{"t":"pick","q":"Which sentence is correct?","o":["I watch rarely TV.","I rarely watch TV.","Rarely I watch TV."],"a":"I rarely watch TV.","x":"Before the main verb."},
+{"t":"pick","q":"Which sentence is correct?","o":["She is usually on time.","She usually is on time.","She is on time usually always."],"a":"She is usually on time.","x":"After be."},
+{"t":"error","q":"He speaks [fluently English].","c":"English fluently","x":"Verb + object + adverb."},
+{"t":"choice","q":"I have ___ visited Japan.","o":["never","ever not"],"a":"never","x":"After the auxiliary 'have'."},
+{"t":"build","q":"Put the words in order.","a":"I usually study in the library."},
+{"t":"build","q":"Put the words in order.","a":"She speaks English very well."}]},
+
+{"id":"adjective-forms-order","title":"-ed / -ing adjectives and adjective order","level":"B1","ielts":1,"skills":["Speaking"],
+"summary":"bored or boring? And 'a beautiful old wooden house'.",
+"cards":[
+{"kind":"rule","title":"-ed and -ing","body":"**-ed** describes how a person **feels**; **-ing** describes the thing that **causes** the feeling.","examples":["I was bored. The film was boring.","I'm interested in history. History is interesting."]},
+{"kind":"rule","title":"Order of adjectives","body":"Opinion → size → age → shape → colour → origin → material → purpose.","examples":["a lovely small old house","a big red Italian sports car"]},
+{"kind":"mistakes","items":[["I am very boring in class.","I am very bored in class.","Feeling → -ed."],["a wooden old beautiful table","a beautiful old wooden table","Opinion, age, material."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Part 2 descriptions use several adjectives — the right order sounds natural.","examples":["It was a small, family-run Thai restaurant with a really relaxing atmosphere."]}],
+"practice":[
+{"t":"choice","q":"The lecture was really ___.","o":["interested","interesting"],"a":"interesting","x":"The lecture causes the feeling."},
+{"t":"choice","q":"I felt ___ after the long journey.","o":["exhausted","exhausting"],"a":"exhausted","x":"How I felt."},
+{"t":"error","q":"Students get [confusing] by the rules.","c":"confused","x":"Feeling → -ed."},
+{"t":"pick","q":"Which is in the natural order?","o":["a black big dog","a big black dog","a dog big black"],"a":"a big black dog","x":"Size before colour."},
+{"t":"build","q":"Put the words in order.","a":"It was a beautiful old wooden house."}]},
+
+{"id":"prepositions-time","title":"Prepositions of time","level":"B1","ielts":2,"skills":["Writing Task 1","Speaking"],
+"summary":"in, on, at, by, until, during, for, since, from…to.",
+"cards":[
+{"kind":"rule","title":"in, on, at","body":"**in** + months, years, decades, seasons, parts of the day. **on** + days and dates. **at** + clock times, festivals, night, the weekend (UK).","examples":["in 2010, in the 1990s, in July","on Monday, on 5 June","at 9 a.m., at night"]},
+{"kind":"rule","title":"Periods","body":"**from … to / between … and** for a range; **during** + noun; **over** + period; **by** = not later than; **until** = up to a time.","examples":["between 1990 and 2010","over the period","by 2030","during the summer"]},
+{"kind":"mistakes","items":[["in Monday","on Monday","Days take on."],["between 2000 to 2010","between 2000 and 2010","between … and."],["in the period of 1990-2000","over the period 1990–2000","Natural Task 1 phrase."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Task 1 depends on accurate time prepositions.","examples":["Over the 20-year period, sales doubled, reaching a peak in 2015."]}],
+"practice":[
+{"t":"choice","q":"The number peaked ___ 2008.","o":["in","on","at"],"a":"in","x":"Years take in."},
+{"t":"choice","q":"The exam is ___ 14 May.","o":["in","on","at"],"a":"on","x":"Dates take on."},
+{"t":"choice","q":"Prices rose ___ 1990 and 2000.","o":["from","between"],"a":"between","x":"between … and."},
+{"t":"choice","q":"The figure is expected to double ___ 2030.","o":["by","until"],"a":"by","x":"Not later than."},
+{"t":"error","q":"Sales rose from 2000 [and] 2010.","c":"to","x":"from … to."},
+{"t":"gap","q":"Many people travel ___ the holidays.","a":["during"],"x":"during + noun."},
+{"t":"build","q":"Put the words in order.","a":"Car sales doubled over the period."}]},
+
+{"id":"prepositions-place","title":"Prepositions of place and direction (maps)","level":"B1","ielts":1,"skills":["Writing Task 1","Listening"],
+"summary":"Describing location and change on maps and plans.",
+"cards":[
+{"kind":"rule","title":"Location","body":"**in** (an area), **on** (a surface or road), **at** (a point), **next to / beside / adjacent to**, **opposite**, **between**, **to the north of**, **in the south-east corner**.","examples":["The school is on Station Road, opposite the park.","A hotel was built to the east of the lake."]},
+{"kind":"rule","title":"Movement","body":"**along, across, through, past, towards, into, out of**","examples":["Walk along the river and go past the bridge."]},
+{"kind":"mistakes","items":[["in the north from the city","in the north of the city","of, not from."],["next the station","next to the station","next to."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Map tasks in Writing Task 1 and Listening Section 2 depend on this language.","examples":["The farmland in the north was replaced by a housing estate."]}],
+"practice":[
+{"t":"choice","q":"The café is ___ the corner of the square.","o":["in","on","at"],"a":"at","x":"A point → at (also 'on the corner')."},
+{"t":"choice","q":"A car park was built ___ the hospital.","o":["next to","next"],"a":"next to","x":"next to."},
+{"t":"error","q":"The airport is located to the south [from] the city.","c":"of","x":"to the south of."},
+{"t":"choice","q":"Walk ___ the park to reach the library.","o":["through","between"],"a":"through","x":"Movement inside an area."},
+{"t":"build","q":"Put the words in order.","a":"A new hotel was built opposite the beach."}]},
+
+{"id":"dependent-prepositions","title":"Dependent prepositions","level":"B2","ielts":2,"skills":["Writing Task 2"],
+"summary":"Fixed combinations: depend on, interested in, the impact of… on…",
+"cards":[
+{"kind":"form","title":"Verb + preposition","rows":[["depend","on"],["focus / concentrate","on"],["contribute","to"],["lead / result","to · in"],["benefit","from"],["deal","with"],["invest","in"],["rely","on"],["suffer","from"]]},
+{"kind":"form","title":"Adjective + preposition","rows":[["interested","in"],["responsible","for"],["aware","of"],["dependent","on"],["similar","to"],["different","from"],["good / bad","at"],["capable","of"]]},
+{"kind":"form","title":"Noun + preposition","rows":[["the impact / effect","of X on Y"],["an increase / decrease","in"],["a solution / approach","to"],["the reason","for"],["access","to"],["demand","for"]]},
+{"kind":"mistakes","items":[["It depends of the situation.","It depends on the situation.","depend on."],["the effect on X to Y","the effect of X on Y","effect of … on …"],["a solution for this problem","a solution to this problem","solution to."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Wrong prepositions are among the most frequent errors in Task 2.","examples":["Advertising has a strong influence on children's food choices."]}],
+"practice":[
+{"t":"choice","q":"Success often depends ___ hard work.","o":["of","on"],"a":"on","x":"depend on."},
+{"t":"choice","q":"Parents are responsible ___ their children's safety.","o":["for","of"],"a":"for","x":"responsible for."},
+{"t":"choice","q":"This could lead ___ higher unemployment.","o":["to","in"],"a":"to","x":"lead to."},
+{"t":"error","q":"We need a solution [for] traffic congestion.","c":"to","x":"solution to."},
+{"t":"error","q":"Tourism has a big impact [to] local culture.","c":"on","x":"impact on."},
+{"t":"gap","q":"Many students rely ___ part-time jobs.","a":["on"],"x":"rely on."},
+{"t":"pick","q":"Which sentence is correct?","o":["Children benefit from outdoor play.","Children benefit of outdoor play.","Children benefit with outdoor play."],"a":"Children benefit from outdoor play.","x":"benefit from."},
+{"t":"build","q":"Put the words in order.","a":"Governments should invest in public transport."}]},
+
+{"id":"numbers-change","title":"The language of numbers and change","level":"B2","ielts":3,"skills":["Writing Task 1"],
+"summary":"rise to, rise by, stand at, peak at, account for — the core of Task 1.",
+"cards":[
+{"kind":"rule","title":"to, by, at, from","body":"- **rose to 50%** (the new figure)\n- **rose by 10%** (the amount of change)\n- **stood at / was at 40%** (a single value)\n- **peaked at / reached a peak of 80**\n- **from 20 to 35** (start and end)","examples":["The figure rose from 20% to 35%, an increase of 15 percentage points.","Coal accounted for 40% of electricity."]},
+{"kind":"form","title":"Useful patterns","rows":[["account for","Gas accounted for a third of the total."],["make up","Women made up 60% of students."],["a rise of X in Y","a rise of 5% in sales"],["X percentage points","from 10% to 15% = five percentage points"],["approximately / just over / nearly","just over a quarter"]]},
+{"kind":"mistakes","items":[["rose with 10%","rose by 10%","by = amount of change."],["accounted 30%","accounted for 30%","account for."],["reached to a peak","reached a peak","reach takes no preposition."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Accurate figures with the right preposition are central to Task Achievement and Grammar.","examples":["Renewables made up only 5% of the total in 2000 but rose to almost a fifth by 2020."]}],
+"practice":[
+{"t":"choice","q":"The price rose ___ $50 to $80.","o":["from","by"],"a":"from","x":"from … to …"},
+{"t":"choice","q":"Sales increased ___ 20%, reaching 120 units.","o":["to","by"],"a":"by","x":"The amount of change."},
+{"t":"choice","q":"Unemployment stood ___ 7% in 2010.","o":["at","on"],"a":"at","x":"stand at."},
+{"t":"error","q":"Oil accounted [to] half of the energy used.","c":"for","x":"account for."},
+{"t":"error","q":"The number of visitors reached [to] a peak in July.","c":"(delete)","x":"reach + object, no preposition."},
+{"t":"gap","q":"Women made ___ 55% of the workforce.","a":["up"],"x":"make up."},
+{"t":"pick","q":"Which sentence is correct?","o":["The figure peaked at 90 in 2015.","The figure peaked on 90 in 2015.","The figure peaked to 90 in 2015."],"a":"The figure peaked at 90 in 2015.","x":"peak at."},
+{"t":"build","q":"Put the words in order.","a":"Coal accounted for almost half of the electricity produced."}]}
+]}

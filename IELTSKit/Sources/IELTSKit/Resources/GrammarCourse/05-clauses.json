@@ -1,0 +1,200 @@
+{"id":"clauses","title":"Sentences, clauses and conditionals","symbol":"arrow.triangle.branch","color":"purple","units":[
+{"id":"sentence-types","title":"Simple, compound and complex sentences","level":"B1","ielts":3,"skills":["Writing Task 2","Grammatical Range"],
+"summary":"The mix of sentence types examiners look for at band 6 and 7.",
+"cards":[
+{"kind":"rule","title":"Three types","body":"- **Simple:** one clause. *Tourism creates jobs.*\n- **Compound:** two main clauses joined by *and, but, so, or*. *Tourism creates jobs, but it can damage the environment.*\n- **Complex:** a main clause + a subordinate clause (*because, although, which, if, when*). *Although tourism creates jobs, it can damage the environment.*","examples":["If governments invest in transport, traffic will fall.","Cities, which are already crowded, will grow further."]},
+{"kind":"rule","title":"What examiners want","body":"Band 6: *a mix of simple and complex sentences*. Band 7: *a variety of complex structures* with *frequent error-free sentences*. Accuracy matters as much as range — three correct complex sentences beat ten with errors.","examples":[]},
+{"kind":"mistakes","items":[["Because people are busy. They buy fast food.","Because people are busy, they buy fast food.","A 'because' clause alone is a fragment."],["Although it is cheap, but it is unhealthy.","Although it is cheap, it is unhealthy.","Don't use although and but together."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Aim for at least one complex sentence in every body paragraph — often to explain a reason or a condition.","examples":["While online learning is convenient, it requires a high level of self-discipline, which many students lack."]}],
+"practice":[
+{"t":"choice","q":"Which is a complex sentence?","o":["Prices rose and people complained.","Prices rose. People complained.","When prices rose, people complained."],"a":"When prices rose, people complained.","x":"Main clause + subordinate clause."},
+{"t":"error","q":"Although the city is crowded, [but] many people want to live there.","c":"(delete)","x":"Use either although or but."},
+{"t":"pick","q":"Which is correct?","o":["Because it was raining. We stayed in.","Because it was raining, we stayed in.","Because it was raining we, stayed in."],"a":"Because it was raining, we stayed in.","x":"Join the clauses."},
+{"t":"build","q":"Join with 'although': 'Cars are convenient. They cause pollution.'","a":"Although cars are convenient, they cause pollution."},
+{"t":"build","q":"Join with 'which': 'The new law reduced crime. It was introduced in 2015.'","a":"The new law, which was introduced in 2015, reduced crime."},
+{"t":"choice","q":"Choose the best linker: 'Many students work part-time ___ they can pay their fees.'","o":["so that","although"],"a":"so that","x":"Purpose."}]},
+
+{"id":"run-ons-fragments","title":"Fragments, run-ons and comma splices","level":"B1","ielts":3,"skills":["Writing Task 2","Grammatical Range"],
+"summary":"The sentence-boundary errors that cap many essays at band 6.",
+"cards":[
+{"kind":"rule","title":"Fragment","body":"A group of words without a main clause.","examples":["✗ For example, the rise of online shopping.","✓ One example is the rise of online shopping."]},
+{"kind":"rule","title":"Comma splice","body":"Two complete sentences joined only by a comma. Fix with a full stop, a semicolon, or a conjunction.","examples":["✗ Technology is useful, it saves time.","✓ Technology is useful; it saves time.","✓ Technology is useful because it saves time."]},
+{"kind":"rule","title":"however is not a conjunction","body":"**However, therefore, moreover** connect sentences, not clauses. Use a full stop or semicolon before them.","examples":["✗ Cars are fast, however they pollute.","✓ Cars are fast. However, they pollute.","✓ Cars are fast; however, they pollute."]},
+{"kind":"mistakes","items":[["Many people live alone, this causes loneliness.","Many people live alone, and this causes loneliness.","Comma splice."],["Such as cars and buses.","Vehicles such as cars and buses are common.","Fragment."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Punctuation is part of Grammatical Range and Accuracy. Comma splices are one of the most common reasons strong essays stay at band 6.","examples":["Public transport is cheap; however, it is often overcrowded."]}],
+"practice":[
+{"t":"pick","q":"Which is correctly punctuated?","o":["Exercise is important, it reduces stress.","Exercise is important because it reduces stress.","Exercise is important, because, it reduces stress."],"a":"Exercise is important because it reduces stress.","x":"No comma splice."},
+{"t":"pick","q":"Which is correct?","o":["Rents are high, however wages are low.","Rents are high. However, wages are low.","Rents are high however, wages are low."],"a":"Rents are high. However, wages are low.","x":"However starts a new sentence."},
+{"t":"pick","q":"Which is a complete sentence?","o":["For instance, the growth of cities.","For instance, cities have grown rapidly.","Such as the growth of cities."],"a":"For instance, cities have grown rapidly.","x":"Has a subject and verb."},
+{"t":"choice","q":"Fix: 'Many young people move to cities ___ there are more jobs there.'","o":[", ","because"],"a":"because","x":"Use a conjunction."},
+{"t":"punctuate","q":"Tap the word that should be followed by a semicolon or full stop (choose where the first sentence ends): 'Some people prefer cities others prefer the countryside.'","w":["Some","people","prefer","cities","others","prefer","the","countryside."],"targets":[3],"x":"Two sentences: '…cities. Others…' or '…cities; others…'"},
+{"t":"build","q":"Put the words in order.","a":"Public transport is cheap; however, it is often crowded."}]},
+
+{"id":"linking-cause-purpose","title":"Linking: reason, result, purpose, time","level":"B1","ielts":3,"skills":["Writing Task 2","Coherence and Cohesion"],
+"summary":"because, since, as, so, therefore, so that, in order to, when, while, once.",
+"cards":[
+{"kind":"rule","title":"Reason","body":"**because / since / as + clause**; **because of / due to / owing to + noun**.","examples":["Because traffic is heavy, many people cycle.","Due to heavy traffic, many people cycle."]},
+{"kind":"rule","title":"Result","body":"**so** (clause), **therefore / as a result / consequently** (new sentence), **so … that**.","examples":["Fuel is expensive, so people drive less.","Fuel is expensive. As a result, people drive less."]},
+{"kind":"rule","title":"Purpose","body":"**to / in order to / so as to + verb**; **so that + clause**.","examples":["Many students work in order to pay their fees.","Cities should build cycle lanes so that people can travel safely."]},
+{"kind":"mistakes","items":[["Due to traffic is heavy, …","Because traffic is heavy, … / Due to heavy traffic, …","due to + noun."],["for to save money","to save money / in order to save money","Purpose with to."],["Because of, people are busy, …","Because people are busy, …","because + clause."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Cause-and-effect reasoning is at the heart of Task 2. Mix clause and noun patterns for range.","examples":["Owing to the rising cost of living, many young adults continue to live with their parents."]}],
+"practice":[
+{"t":"choice","q":"___ the bad weather, the match was cancelled.","o":["Because","Because of"],"a":"Because of","x":"because of + noun."},
+{"t":"choice","q":"She studied hard ___ pass the exam.","o":["to","for"],"a":"to","x":"Purpose: to + verb."},
+{"t":"choice","q":"Housing is expensive. ___, many people rent.","o":["Therefore","Because"],"a":"Therefore","x":"Result, new sentence."},
+{"t":"error","q":"[Due to] prices are rising, people are saving more.","c":"Because","x":"Clause after → because."},
+{"t":"gap","q":"Governments should tax sugar so ___ people eat less of it.","a":["that"],"x":"so that + clause."},
+{"t":"pick","q":"Which sentence is correct?","o":["People exercise in order to staying healthy.","People exercise in order to stay healthy.","People exercise for stay healthy."],"a":"People exercise in order to stay healthy.","x":"in order to + base verb."},
+{"t":"build","q":"Put the words in order.","a":"Many students work part-time in order to pay their fees."}]},
+
+{"id":"contrast-concession","title":"Contrast and concession: although, despite, whereas, however","level":"B2","ielts":3,"skills":["Writing Task 2","Writing Task 1"],
+"summary":"Balancing arguments and comparing data.",
+"cards":[
+{"kind":"rule","title":"Clause or noun?","body":"- **although / even though / though + clause**\n- **despite / in spite of + noun or -ing**\n- **despite the fact that + clause**","examples":["Although it was expensive, the project succeeded.","Despite the cost, the project succeeded.","Despite being expensive, the project succeeded."]},
+{"kind":"rule","title":"Comparing two things","body":"**whereas / while** join two contrasting facts in one sentence; **however / on the other hand / in contrast** start a new sentence.","examples":["Coal use fell, whereas solar power rose.","Coal use fell. In contrast, solar power rose."]},
+{"kind":"mistakes","items":[["Despite it was cold, we swam.","Although it was cold, we swam. / Despite the cold, we swam.","despite + noun."],["In spite of the fact it rained, …","In spite of the fact that it rained, …","the fact that."],["Whereas, the figure for women fell.","The figure for women, however, fell.","Whereas joins two clauses in one sentence."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Discussion essays and Task 1 comparisons depend on accurate contrast language.","examples":["While some argue that zoos protect endangered species, others believe that keeping animals in cages is cruel."]}],
+"practice":[
+{"t":"choice","q":"___ the heavy rain, the event went ahead.","o":["Although","Despite"],"a":"Despite","x":"Noun phrase follows."},
+{"t":"choice","q":"___ it was raining heavily, the event went ahead.","o":["Although","Despite"],"a":"Although","x":"Clause follows."},
+{"t":"choice","q":"Men preferred football, ___ women preferred tennis.","o":["whereas","however"],"a":"whereas","x":"Joins two clauses."},
+{"t":"error","q":"[Despite] the price is high, many people buy it.","c":"Although","x":"Clause → although."},
+{"t":"error","q":"In spite of [study] hard, he failed.","c":"studying","x":"in spite of + -ing."},
+{"t":"pick","q":"Which sentence is correct?","o":["Even though cars are convenient, they cause pollution.","Even though cars are convenient, but they cause pollution.","Even cars are convenient, they cause pollution."],"a":"Even though cars are convenient, they cause pollution.","x":"One linker only."},
+{"t":"build","q":"Join with 'whereas': 'Sales of tea rose. Sales of coffee fell.'","a":"Sales of tea rose, whereas sales of coffee fell."}]},
+
+{"id":"relative-defining","title":"Defining relative clauses","level":"B1","ielts":3,"skills":["Writing Task 2","Grammatical Range"],
+"summary":"who, which, that, whose, where — identifying which one you mean.",
+"cards":[
+{"kind":"rule","title":"Pronouns","body":"**who** (people), **which** (things), **that** (people or things, informal), **whose** (possession), **where** (places), **when** (times).","examples":["People who exercise live longer.","The city where I grew up has changed.","Students whose parents read to them read more."]},
+{"kind":"rule","title":"Leaving out the pronoun","body":"You can omit **who/which/that** when it is the **object** of the clause.","examples":["The book (that) I bought is excellent.","The book that changed my life… (subject — cannot omit)"]},
+{"kind":"mistakes","items":[["People which live alone…","People who live alone…","who for people."],["The man who he called me…","The man who called me…","Don't repeat the subject."],["The city that I live…","The city where I live / that I live in…","Place → where, or keep the preposition."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Relative clauses are the easiest way to build accurate complex sentences.","examples":["Children who spend hours online may have fewer face-to-face friendships."]}],
+"practice":[
+{"t":"choice","q":"Students ___ study regularly usually do better.","o":["who","which"],"a":"who","x":"People → who."},
+{"t":"choice","q":"This is the town ___ I was born.","o":["where","which"],"a":"where","x":"Place → where."},
+{"t":"choice","q":"I met a woman ___ son is a pilot.","o":["whose","who's"],"a":"whose","x":"Possession."},
+{"t":"error","q":"Countries [which] people live longer spend more on health.","c":"where","x":"Place → where."},
+{"t":"error","q":"The teacher who [she] taught me retired.","c":"(delete)","x":"Don't repeat the subject."},
+{"t":"pick","q":"Which sentence is correct?","o":["Jobs who pay well are competitive.","Jobs that pay well are competitive.","Jobs pay well are competitive."],"a":"Jobs that pay well are competitive.","x":"Things → that/which."},
+{"t":"build","q":"Join: 'People live near parks. They are often healthier.'","a":"People who live near parks are often healthier."}]},
+
+{"id":"relative-non-defining","title":"Non-defining relative clauses","level":"B2","ielts":3,"skills":["Writing Task 2","Writing Task 1"],
+"summary":"Extra information between commas — and 'which' referring to a whole idea.",
+"cards":[
+{"kind":"rule","title":"Extra information","body":"Non-defining clauses add information about something already identified. They use **commas**, and **that** is not allowed.","examples":["Dhaka, which is one of the world's most crowded cities, is growing fast.","My sister, who lives in Canada, is a doctor."]},
+{"kind":"rule","title":"which = the whole idea","body":"**, which** can refer to the whole previous clause.","examples":["Many people now work from home, which reduces traffic.","Car use fell by 20%, which was the largest drop in the period."]},
+{"kind":"mistakes","items":[["London, that is the capital, …","London, which is the capital, …","No 'that' with commas."],["Many shops closed which led to job losses.","Many shops closed, which led to job losses.","Comma before 'which' for the whole idea."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"', which…' is one of the most efficient band 7 structures in both tasks.","examples":["Coal use fell sharply after 2010, which can be explained by the growth of renewables."]}],
+"practice":[
+{"t":"choice","q":"Sylhet, ___ is famous for tea, attracts many tourists.","o":["which","that"],"a":"which","x":"No 'that' in non-defining clauses."},
+{"t":"choice","q":"Prices doubled, ___ made life difficult for many families.","o":["which","what"],"a":"which","x":"which = the whole idea."},
+{"t":"error","q":"My brother, [that] works in a bank, lives in Dhaka.","c":"who","x":"Non-defining → who."},
+{"t":"pick","q":"Which is punctuated correctly?","o":["The Amazon which is the largest rainforest is shrinking.","The Amazon, which is the largest rainforest, is shrinking.","The Amazon, that is the largest rainforest, is shrinking."],"a":"The Amazon, which is the largest rainforest, is shrinking.","x":"Commas and which."},
+{"t":"build","q":"Join with ', which': 'Many factories closed. This caused unemployment.'","a":"Many factories closed, which caused unemployment."}]},
+
+{"id":"participle-clauses","title":"Reduced relative and participle clauses","level":"B2","ielts":2,"skills":["Writing Task 2","Writing Task 1"],
+"summary":"Shorter, more academic clauses with -ing and past participles.",
+"cards":[
+{"kind":"rule","title":"Reduced relatives","body":"**who/which + active verb → -ing**; **who/which + passive → past participle**.","examples":["Students who live on campus → Students living on campus","Products which are made in China → Products made in China"]},
+{"kind":"rule","title":"Participle clauses for time and reason","body":"**Having + pp** = after; **-ing** = at the same time / because.","examples":["Having finished the course, she found a job.","Realising the danger, the government acted quickly."]},
+{"kind":"mistakes","items":[["Walking home, the rain started.","Walking home, I was caught in the rain.","The subject of both parts must be the same."],["Products making in factories…","Products made in factories…","Passive meaning → past participle."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Participle clauses add range and concision in Task 1 and Task 2.","examples":["The number of cars rose steadily, reaching a peak of 3 million in 2010."]}],
+"practice":[
+{"t":"choice","q":"People ___ in cities often have long commutes.","o":["living","lived"],"a":"living","x":"Active meaning → -ing."},
+{"t":"choice","q":"Most of the energy ___ in the country comes from gas.","o":["produced","producing"],"a":"produced","x":"Passive meaning → past participle."},
+{"t":"gap","q":"Sales rose sharply, ___ (reach) a peak in 2015.","a":["reaching"],"x":"Participle clause of result."},
+{"t":"error","q":"Goods [sending] by sea are cheaper to transport.","c":"sent","x":"Passive meaning."},
+{"t":"pick","q":"Which sentence is correct?","o":["Having finished the report, she went home.","Having finish the report, she went home.","Finished the report, she went home."],"a":"Having finished the report, she went home.","x":"Having + pp."},
+{"t":"build","q":"Shorten: 'Students who study abroad gain independence.'","a":"Students studying abroad gain independence."}]},
+
+{"id":"noun-clauses","title":"Noun clauses: that, what, whether, how","level":"B2","ielts":2,"skills":["Writing Task 2","Speaking Part 3"],
+"summary":"Clauses that act as subjects or objects: 'What matters is…'",
+"cards":[
+{"kind":"rule","title":"that-clauses","body":"After verbs of thinking and saying: **believe / argue / suggest / claim that…**; after adjectives: **it is clear / likely / important that…**","examples":["Many experts argue that homework is unnecessary.","It is clear that action is needed."]},
+{"kind":"rule","title":"wh- and whether clauses","body":"Use statement word order inside the clause.","examples":["It is unclear whether the policy will work.","What young people need is more guidance.","Nobody knows how the problem started."]},
+{"kind":"mistakes","items":[["I don't know what is the answer.","I don't know what the answer is.","Statement word order."],["It is not clear if will it work.","It is not clear whether it will work.","Statement word order."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"'What + clause + is…' and 'It is … that…' add range and emphasis in Task 2 and Part 3.","examples":["What worries many parents is the amount of time children spend online."]}],
+"practice":[
+{"t":"pick","q":"Which sentence is correct?","o":["I wonder why is the sky blue.","I wonder why the sky is blue.","I wonder why blue is the sky."],"a":"I wonder why the sky is blue.","x":"Statement word order."},
+{"t":"choice","q":"It is uncertain ___ the economy will recover.","o":["whether","what"],"a":"whether","x":"Yes/no idea → whether."},
+{"t":"choice","q":"___ students need most is practice.","o":["What","That"],"a":"What","x":"What = the thing that."},
+{"t":"error","q":"Nobody knows how much [does it cost].","c":"it costs","x":"Statement word order."},
+{"t":"build","q":"Put the words in order.","a":"It is widely believed that exercise improves mood."}]},
+
+{"id":"reported-speech","title":"Reported speech and reporting verbs","level":"B1","ielts":1,"skills":["Writing Task 2","Speaking Part 2"],
+"summary":"Reporting what others say, and verbs like argue, claim, suggest.",
+"cards":[
+{"kind":"rule","title":"Tense backshift","body":"After a past reporting verb, tenses usually move back: present → past, will → would, present perfect → past perfect.","examples":["'I am tired.' → She said she was tired.","'We will help.' → They said they would help."]},
+{"kind":"form","title":"Reporting verbs","rows":[["argue / claim / maintain that","Some argue that…"],["suggest + -ing / that","He suggested taking a break."],["advise / warn + object + to","Doctors advise people to exercise."],["deny + -ing","He denied stealing the money."],["agree / refuse + to","They refused to pay."]]},
+{"kind":"mistakes","items":[["He said me that…","He told me that… / He said that…","say + that; tell + person."],["She suggested to go.","She suggested going.","suggest + -ing."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Discussion essays report views with varied reporting verbs instead of 'say'.","examples":["Opponents of the plan claim that it would be too expensive."]}],
+"practice":[
+{"t":"choice","q":"She ___ me that she was leaving.","o":["said","told"],"a":"told","x":"tell + person."},
+{"t":"gap","q":"'I will call you.' → He said he ___ call me.","a":["would"],"x":"will → would."},
+{"t":"error","q":"The doctor suggested [to rest] for a week.","c":"resting","x":"suggest + -ing."},
+{"t":"choice","q":"Critics ___ that the policy is unfair.","o":["argue","tell"],"a":"argue","x":"argue that."},
+{"t":"pick","q":"Which is correct?","o":["He said me the truth.","He told me the truth.","He told to me the truth."],"a":"He told me the truth.","x":"tell + object."},
+{"t":"build","q":"Put the words in order.","a":"Some experts argue that homework is unnecessary."}]},
+
+{"id":"conditionals-zero-first","title":"Zero and first conditionals","level":"B1","ielts":3,"skills":["Writing Task 2","Speaking Part 3"],
+"summary":"General truths and real future possibilities.",
+"cards":[
+{"kind":"rule","title":"Zero conditional","body":"**If + present, present** — things that are always true.","examples":["If you heat ice, it melts.","If people don't sleep enough, they find it hard to concentrate."]},
+{"kind":"rule","title":"First conditional","body":"**If + present, will / may / can + verb** — realistic future results.","examples":["If the government raises fuel taxes, people will drive less.","If we don't act now, the problem may become worse."]},
+{"kind":"rule","title":"unless, as long as, provided that","body":"**unless** = if … not.","examples":["Traffic will get worse unless public transport improves."]},
+{"kind":"mistakes","items":[["If it will rain, we will stay home.","If it rains, we will stay home.","No 'will' in the if-clause."],["Unless you don't study, you will fail.","Unless you study, you will fail.","Unless already means 'if not'."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Solution essays and Part 3 answers about consequences rely on the first conditional.","examples":["If cities invested more in cycle lanes, more people would cycle — and if they do, air quality will improve."]}],
+"practice":[
+{"t":"gap","q":"If you ___ (mix) red and white, you get pink.","a":["mix"],"x":"Zero conditional."},
+{"t":"gap","q":"If the bus ___ (be) late again, I will complain.","a":["is"],"x":"First conditional: if + present."},
+{"t":"choice","q":"If taxes rise, people ___ less.","o":["will spend","would spend"],"a":"will spend","x":"Realistic future."},
+{"t":"error","q":"If the government [will invest] in education, the economy will grow.","c":"invests","x":"No will after if."},
+{"t":"error","q":"Unless we [don't] reduce emissions, temperatures will keep rising.","c":"(delete)","x":"unless = if not."},
+{"t":"pick","q":"Which sentence is correct?","o":["If you won't hurry, you'll be late.","Unless you hurry, you'll be late.","Unless you won't hurry, you'll be late."],"a":"Unless you hurry, you'll be late.","x":"unless + present."},
+{"t":"build","q":"Put the words in order.","a":"If people recycle more, there will be less waste."}]},
+
+{"id":"conditionals-second-third","title":"Second and third conditionals","level":"B2","ielts":3,"skills":["Speaking Part 3","Writing Task 2"],
+"summary":"Imaginary present situations and imaginary pasts.",
+"cards":[
+{"kind":"rule","title":"Second conditional","body":"**If + past simple, would / could / might + verb** — imaginary or unlikely situations now or in the future. Use **were** for all persons in formal style.","examples":["If I were the prime minister, I would make public transport free.","If public transport were cheaper, more people would use it."]},
+{"kind":"rule","title":"Third conditional","body":"**If + past perfect, would have + past participle** — imaginary past.","examples":["If I had studied harder, I would have passed.","If the warnings had been heeded, the disaster might have been avoided."]},
+{"kind":"mistakes","items":[["If I would have money, I would travel.","If I had money, I would travel.","No would in the if-clause."],["If I had known, I would help.","If I had known, I would have helped.","Third conditional result."],["If I was you…","If I were you…","Formal and advice form."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"'If I were…' and 'If governments were to…' answers are excellent for hypothetical Part 3 questions.","examples":["If young people had more opportunities in rural areas, fewer of them would move to the city."]}],
+"practice":[
+{"t":"gap","q":"If I ___ (have) more time, I would learn Japanese.","a":["had"],"x":"Second conditional."},
+{"t":"gap","q":"If she had left earlier, she ___ (catch) the train.","a":["would have caught"],"x":"Third conditional."},
+{"t":"choice","q":"If I ___ you, I would apply for the scholarship.","o":["were","am"],"a":"were","x":"If I were you…"},
+{"t":"error","q":"If people [would eat] less meat, emissions would fall.","c":"ate","x":"No would in the if-clause."},
+{"t":"error","q":"If the government had acted sooner, fewer people [would lose] their jobs.","c":"would have lost","x":"Third conditional."},
+{"t":"pick","q":"Which sentence is correct?","o":["If cars were banned, cities would be quieter.","If cars would be banned, cities would be quieter.","If cars are banned, cities would be quieter."],"a":"If cars were banned, cities would be quieter.","x":"Second conditional."},
+{"t":"build","q":"Put the words in order.","a":"If I had known, I would have helped you."}]},
+
+{"id":"conditionals-mixed","title":"Mixed conditionals and alternatives to if","level":"C1","ielts":2,"skills":["Writing Task 2","Speaking Part 3"],
+"summary":"Past cause with present result, and provided that, otherwise, were to.",
+"cards":[
+{"kind":"rule","title":"Mixed conditionals","body":"Past condition → present result: **If + past perfect, would + verb**.","examples":["If I had taken that job, I would be living in London now.","If cities had been planned better, traffic would not be so bad today."]},
+{"kind":"rule","title":"Alternatives","body":"**provided / providing that, as long as, on condition that, otherwise, were + to-infinitive, should** (formal).","examples":["The plan will work provided that it is properly funded.","Were the government to raise taxes, people would protest.","We need to act now; otherwise, costs will rise."]},
+{"kind":"mistakes","items":[["If I had studied medicine, I would be a doctor now. (correct)","—","Mixed: past cause, present result."],["Provided that it will be funded…","Provided that it is funded…","Present after provided that."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"These structures signal C1-level grammatical range.","examples":["Were governments to invest in rural infrastructure, migration to cities would slow."]}],
+"practice":[
+{"t":"gap","q":"If I had saved more money, I ___ (be) rich now.","a":["would be"],"x":"Past cause, present result."},
+{"t":"choice","q":"The project will succeed ___ it receives enough funding.","o":["provided that","otherwise"],"a":"provided that","x":"Condition."},
+{"t":"choice","q":"We must leave now; ___, we'll miss the flight.","o":["otherwise","unless"],"a":"otherwise","x":"If not, …"},
+{"t":"error","q":"Were the price [rise], demand would fall.","c":"to rise","x":"were + to-infinitive."},
+{"t":"build","q":"Put the words in order.","a":"The plan will work provided that it is properly funded."}]},
+
+{"id":"wishes-hypothetical","title":"wish, if only, it's time","level":"B2","ielts":1,"skills":["Speaking Part 2"],
+"summary":"Regrets and imaginary situations.",
+"cards":[
+{"kind":"rule","title":"wish / if only","body":"**wish + past simple** (present regret), **wish + past perfect** (past regret), **wish + would** (annoyance or desire for change).","examples":["I wish I spoke French.","I wish I had studied abroad.","I wish people would stop dropping litter."]},
+{"kind":"rule","title":"It's time","body":"**It's (high) time + subject + past simple** = it should happen now.","examples":["It's time governments took climate change seriously."]},
+{"kind":"mistakes","items":[["I wish I can swim.","I wish I could swim.","Past form after wish."],["It's time we go.","It's time we went.","Past simple after it's time."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Part 2 'explain how you felt' prompts invite wish and if only.","examples":["Looking back, I wish I had taken more photos on that trip."]}],
+"practice":[
+{"t":"choice","q":"I wish I ___ more free time.","o":["had","have"],"a":"had","x":"Present regret → past simple."},
+{"t":"gap","q":"I wish I ___ (listen) to my teacher's advice last year.","a":["had listened"],"x":"Past regret."},
+{"t":"error","q":"It's high time we [take] action on pollution.","c":"took","x":"It's time + past simple."},
+{"t":"pick","q":"Which is correct?","o":["If only I knew the answer!","If only I know the answer!","If only I would know the answer!"],"a":"If only I knew the answer!","x":"Past simple."},
+{"t":"build","q":"Put the words in order.","a":"I wish I had started learning English earlier."}]}
+]}

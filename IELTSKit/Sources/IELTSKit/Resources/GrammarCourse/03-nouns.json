@@ -1,0 +1,133 @@
+{"id":"nouns","title":"Nouns, articles and determiners","symbol":"cube.fill","color":"teal","units":[
+{"id":"countable-uncountable","title":"Countable and uncountable nouns","level":"B1","ielts":3,"skills":["Writing Task 2","Writing Task 1"],
+"summary":"Which nouns take a/an and plurals — and which never do.",
+"cards":[
+{"kind":"rule","title":"Two kinds of noun","body":"**Countable** nouns have singular and plural forms and can take *a/an*: a job, two jobs.\n**Uncountable** nouns have no plural and no *a/an*: information, advice, research, equipment, knowledge, evidence, traffic, furniture, homework, money, pollution, progress, transport, accommodation.","examples":["There is a lot of evidence that exercise improves health.","She gave me some useful advice."]},
+{"kind":"rule","title":"Counting uncountables","body":"Use a unit: **a piece of** advice/information/equipment, **an item of** news, **a lot of / much / little** + uncountable.","examples":["One piece of research found that…","There isn't much traffic at night."]},
+{"kind":"form","title":"Which words go with which","rows":[["Countable only","many, few, a few, a number of, several, each"],["Uncountable only","much, little, a little, an amount of"],["Both","some, any, a lot of, lots of, more, most, no"]]},
+{"kind":"mistakes","items":[["We need more informations.","We need more information.","No plural for 'information'."],["She gave me an advice.","She gave me some advice / a piece of advice.","No 'a' with uncountables."],["A large amount of people use buses.","A large number of people use buses.","'People' is countable → number."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Examiners notice 'researches', 'evidences', 'advices'. Fixing them is one of the quickest ways to raise your Grammar band.","examples":["Recent research suggests that cities need more green spaces.","Public transport reduces the amount of traffic in city centres."]}],
+"practice":[
+{"t":"choice","q":"I need some ___ about visas.","o":["informations","information"],"a":"information","x":"Uncountable."},
+{"t":"choice","q":"There were too ___ cars on the road.","o":["much","many"],"a":"many","x":"Cars are countable."},
+{"t":"choice","q":"There is too ___ traffic in Dhaka.","o":["much","many"],"a":"much","x":"Traffic is uncountable."},
+{"t":"error","q":"Many [researches] show that sleep affects memory.","c":"studies","x":"'Research' is uncountable; use 'studies' or 'much research'."},
+{"t":"error","q":"A large [amount] of students failed the test.","c":"number","x":"Students are countable."},
+{"t":"gap","q":"Let me give you a piece of ___ (advice).","a":["advice"],"x":"No plural."},
+{"t":"pick","q":"Which sentence is correct?","o":["There are many evidences for this.","There is much evidence for this.","There is many evidence for this."],"a":"There is much evidence for this.","x":"Uncountable + singular verb."},
+{"t":"choice","q":"Fewer ___ are buying newspapers.","o":["people","person"],"a":"people","x":"Plural countable after fewer."},
+{"t":"build","q":"Put the words in order.","a":"There is a lot of evidence for this theory."}]},
+
+{"id":"articles-basic","title":"a, an and the","level":"B1","ielts":3,"skills":["Writing Task 1","Writing Task 2"],
+"summary":"First mention, specific things, and things that are unique.",
+"cards":[
+{"kind":"rule","title":"a / an","body":"Use **a/an** with a singular countable noun when it is **one of many** or **mentioned for the first time**. Use **an** before a vowel **sound**: an hour, an MBA, but a university, a European.","examples":["She works as an engineer.","I read an interesting article yesterday."]},
+{"kind":"rule","title":"the","body":"Use **the** when the reader knows **which one**: it was mentioned before, it is unique, or it is made specific by the rest of the phrase.","examples":["The article was about climate change.","the sun, the internet, the government, the environment","the population of Japan, the number of tourists"]},
+{"kind":"rule","title":"Superlatives and ordinals","body":"Always **the** with superlatives and first/second/last.","examples":["the highest figure, the most popular option, the first year"]},
+{"kind":"mistakes","items":[["Number of tourists increased.","The number of tourists increased.","'The number of' needs the."],["He is engineer.","He is an engineer.","Jobs need a/an."],["It was highest figure.","It was the highest figure.","Superlatives need the."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Task 1 reports are full of phrases that need **the**: *the number of, the proportion of, the highest, the period, the rest*.","examples":["The proportion of students who walked to school fell over the period."]}],
+"practice":[
+{"t":"choice","q":"She wants to become ___ architect.","o":["a","an","the"],"a":"an","x":"Vowel sound."},
+{"t":"choice","q":"He studies at ___ university in Sylhet.","o":["a","an"],"a":"a","x":"'University' starts with a /j/ sound."},
+{"t":"choice","q":"___ number of cars rose sharply.","o":["A","The"],"a":"The","x":"'The number of' + plural noun."},
+{"t":"gap","q":"Japan had ___ highest life expectancy.","a":["the"],"x":"Superlative."},
+{"t":"error","q":"I saw a film last night. [A] film was about space.","c":"The","x":"Second mention → the."},
+{"t":"error","q":"Protecting [environment] is everyone's responsibility.","c":"the environment","x":"'The environment' is the usual phrase."},
+{"t":"pick","q":"Which sentence is correct?","o":["Internet has changed our lives.","The internet has changed our lives.","An internet has changed our lives."],"a":"The internet has changed our lives.","x":"Unique things take the."},
+{"t":"build","q":"Put the words in order.","a":"The proportion of older people increased over the period."}]},
+
+{"id":"articles-zero","title":"No article: general meaning","level":"B2","ielts":3,"skills":["Writing Task 2"],
+"summary":"When to use no article at all, and the with groups and places.",
+"cards":[
+{"kind":"rule","title":"General statements","body":"Use **no article** with plural and uncountable nouns used in a **general** sense.","examples":["Children need exercise.","Technology changes quickly.","Crime is a problem in many cities."]},
+{"kind":"rule","title":"General vs specific","body":"Add **the** when the meaning becomes specific.","examples":["Education is important. (in general)","The education I received was excellent. (specific)"]},
+{"kind":"rule","title":"the with groups and places","body":"**the** + adjective for groups: the elderly, the poor, the young. Countries with plural or 'Republic/Kingdom': the UK, the USA, the Netherlands. No article: most countries, cities, continents: Bangladesh, Asia.","examples":["The elderly often feel isolated.","She moved from Bangladesh to the UK."]},
+{"kind":"mistakes","items":[["The children need the exercise.","Children need exercise.","General meaning → no article."],["The pollution is serious problem.","Pollution is a serious problem.","General uncountable; a + singular countable."],["Old people (or elderly) need care.","The elderly need care.","the + adjective = group."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Task 2 statements are usually general. Over-using **the** is one of the most common errors in band 5–6 essays.","examples":["Governments should invest in education and healthcare.","Young people today face more pressure than previous generations."]}],
+"practice":[
+{"t":"choice","q":"___ crime has fallen in many cities.","o":["The","(no article)"],"a":"(no article)","x":"General uncountable."},
+{"t":"choice","q":"___ crime that was reported last year was mostly theft.","o":["The","(no article)"],"a":"The","x":"Specific crime."},
+{"t":"error","q":"The governments should invest more in [the] education.","c":"(delete)","x":"General: 'invest in education'."},
+{"t":"choice","q":"___ elderly need better healthcare.","o":["The","(no article)"],"a":"The","x":"the + adjective."},
+{"t":"choice","q":"She lives in ___ Netherlands.","o":["the","(no article)"],"a":"the","x":"Plural country name."},
+{"t":"pick","q":"Which sentence is correct?","o":["The money cannot buy happiness.","Money cannot buy happiness.","A money cannot buy happiness."],"a":"Money cannot buy happiness.","x":"General meaning."},
+{"t":"build","q":"Put the words in order.","a":"Children should learn about money at school."}]},
+
+{"id":"quantifiers","title":"Quantifiers: some, any, much, many, few, little","level":"B1","ielts":2,"skills":["Writing Task 1","Speaking"],
+"summary":"Talking about amounts precisely.",
+"cards":[
+{"kind":"rule","title":"some and any","body":"**some** in positive sentences and offers; **any** in negatives and questions.","examples":["There are some good universities here.","Are there any questions?"]},
+{"kind":"rule","title":"few / a few, little / a little","body":"**a few / a little** = some (positive). **few / little** = not many / not much (negative).","examples":["A few students passed. (some did)","Few students passed. (almost none did)","I have a little time. / I have little time."]},
+{"kind":"mistakes","items":[["There are a little cars.","There are a few cars.","Countable → a few."],["I don't have some money.","I don't have any money.","Negative → any."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"'Few' and 'little' express criticism or a small amount precisely in Task 2 and Part 3.","examples":["Few people can afford houses in the capital.","Little attention has been paid to this problem."]}],
+"practice":[
+{"t":"choice","q":"There isn't ___ milk left.","o":["some","any"],"a":"any","x":"Negative → any."},
+{"t":"choice","q":"I have ___ friends in Dhaka, so I'm not lonely.","o":["a few","few"],"a":"a few","x":"Positive meaning."},
+{"t":"choice","q":"Sadly, ___ people recycle their plastic.","o":["a few","few"],"a":"few","x":"Negative meaning: not many."},
+{"t":"choice","q":"There is ___ hope of finding survivors now.","o":["little","few"],"a":"little","x":"Hope is uncountable."},
+{"t":"error","q":"There are [a little] parks in the city centre.","c":"a few","x":"Parks are countable."},
+{"t":"pick","q":"Which sentence is correct?","o":["How much students passed?","How many students passed?","How many student passed?"],"a":"How many students passed?","x":"Countable plural → many."},
+{"t":"build","q":"Put the words in order.","a":"Few people walk to work in this city."}]},
+
+{"id":"quantifiers-all-most","title":"all, most, none, each, both, either, neither","level":"B2","ielts":2,"skills":["Writing Task 1"],
+"summary":"Comparing groups and proportions — essential for Task 1.",
+"cards":[
+{"kind":"rule","title":"most / most of the","body":"**most + noun** for things in general; **most of the + noun** for a specific group.","examples":["Most people own a phone.","Most of the students in my class live nearby."]},
+{"kind":"rule","title":"Proportion language","body":"**all, the majority of, more than half of, around a third of, a minority of, very few, none of**","examples":["The majority of respondents preferred online shopping.","None of the countries reached 50%."]},
+{"kind":"rule","title":"each, every, both, either, neither","body":"**each / every + singular noun** and singular verb. **both** = the two together. **either** = one or the other. **neither** = not one and not the other.","examples":["Each country has its own system.","Both cities grew, but neither reached a million."]},
+{"kind":"mistakes","items":[["Most of people agree.","Most people agree.","'Most of' needs 'the' or a pronoun."],["Every students has a laptop.","Every student has a laptop.","every + singular."],["Neither of the options are good.","Neither of the options is good.","Formal: neither of + singular verb."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Pie charts and surveys need proportion language instead of only percentages.","examples":["Just over half of the energy came from coal, while renewables accounted for only a tenth."]}],
+"practice":[
+{"t":"choice","q":"___ students in my class passed the exam.","o":["Most of","Most of the"],"a":"Most of the","x":"Specific group → most of the."},
+{"t":"choice","q":"___ country has its own traditions.","o":["Each","All"],"a":"Each","x":"each + singular."},
+{"t":"choice","q":"Both cities grew, but ___ of them doubled in size.","o":["neither","either"],"a":"neither","x":"Not one and not the other."},
+{"t":"error","q":"Every [students] must bring an ID card.","c":"student","x":"every + singular."},
+{"t":"gap","q":"Just over ___ (half) of the respondents chose option A.","a":["half"],"x":"half of the…"},
+{"t":"pick","q":"Which sentence is correct?","o":["The majority of people prefers cars.","The majority of people prefer cars.","Majority of people prefer cars."],"a":"The majority of people prefer cars.","x":"'The majority of' + plural noun usually takes a plural verb."},
+{"t":"build","q":"Put the words in order.","a":"Around a third of the energy came from gas."}]},
+
+{"id":"reference","title":"Pronouns and reference: it, this, they, such","level":"B2","ielts":3,"skills":["Writing Task 2","Coherence and Cohesion"],
+"summary":"Linking sentences without repeating words.",
+"cards":[
+{"kind":"rule","title":"Pointing back","body":"Use **it / they / this / these / that / such + noun** to refer to ideas already mentioned. This creates cohesion without repetition.","examples":["Many governments have introduced sugar taxes. This policy has reduced consumption.","Some people prefer to rent. They argue that it gives them freedom."]},
+{"kind":"rule","title":"this + noun is clearest","body":"A bare **this** can be unclear. Add a summary noun: *this problem, this trend, this approach, such measures*.","examples":["Traffic is increasing. This trend is likely to continue."]},
+{"kind":"mistakes","items":[["The government should help students. It should give it money.","The government should give students financial support.","Unclear 'it'."],["Pollution is a problem. They cause disease.","Pollution is a problem. It causes disease.","Pronoun must agree with its noun."],["People they think…","People think…","Don't repeat the subject with a pronoun."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Band 7 Coherence and Cohesion needs **clear referencing**. Replacing 'Moreover' with 'This…' often improves flow.","examples":["Fast food is cheap and convenient. As a result of this, many families rely on it."]}],
+"practice":[
+{"t":"choice","q":"Cities are becoming crowded. ___ makes housing expensive.","o":["This","These"],"a":"This","x":"Refers to the whole situation."},
+{"t":"choice","q":"Many students work part-time. ___ often struggle to find time to study.","o":["It","They"],"a":"They","x":"Students → they."},
+{"t":"error","q":"Social media is popular, but [they] can be addictive.","c":"it","x":"Social media is singular."},
+{"t":"error","q":"Many people [they] believe that money brings happiness.","c":"(delete)","x":"Don't repeat the subject."},
+{"t":"pick","q":"Which link is clearest?","o":["Prices rose. This made it hard.","Prices rose sharply. This increase made housing unaffordable for many."],"a":"Prices rose sharply. This increase made housing unaffordable for many.","x":"this + summary noun."},
+{"t":"build","q":"Put the words in order.","a":"Such measures could reduce traffic significantly."}]},
+
+{"id":"possessives-compounds","title":"Possessives and compound nouns","level":"B1","ielts":1,"skills":["Writing Task 1"],
+"summary":"The children's books, the city's population, a car park.",
+"cards":[
+{"kind":"rule","title":"'s and of","body":"Use **'s** with people, animals, countries and organisations; **of** with things and longer phrases.","examples":["the country's economy","my parents' house","the population of the city","the end of the year"]},
+{"kind":"rule","title":"Compound nouns","body":"Two nouns together; the first works like an adjective and is usually singular.","examples":["a car park, a bus station, a ten-year plan, a three-day course"]},
+{"kind":"mistakes","items":[["the students's books","the students' books","Plural ending in -s: just add '."],["a ten-years plan","a ten-year plan","Compound with a number: singular."],["Bangladesh economy","Bangladesh's economy","Possessive 's."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Map and Task 1 descriptions use many compound nouns.","examples":["The car park was replaced by a shopping centre."]}],
+"practice":[
+{"t":"choice","q":"___ population grew quickly.","o":["The city's","The citys"],"a":"The city's","x":"Possessive 's."},
+{"t":"choice","q":"It was a ___ journey.","o":["five-hour","five-hours"],"a":"five-hour","x":"Compound adjective is singular."},
+{"t":"error","q":"The [childrens'] toys were everywhere.","c":"children's","x":"'Children' is already plural → children's."},
+{"t":"gap","q":"My ___ (parents) house is near the river.","a":["parents'"],"x":"Plural ending in s → s'."},
+{"t":"pick","q":"Which is correct?","o":["the end of the year","the year's end of","the end the year"],"a":"the end of the year","x":"of with things."},
+{"t":"build","q":"Put the words in order.","a":"A new bus station was built near the market."}]},
+
+{"id":"nominalisation","title":"Nominalisation: academic noun phrases","level":"C1","ielts":3,"skills":["Writing Task 2","Writing Task 1"],
+"summary":"Turning verbs and adjectives into nouns for a concise, formal style.",
+"cards":[
+{"kind":"rule","title":"From verb to noun","body":"Academic writing often uses **nouns** where speech uses verbs. It sounds more objective and lets you pack ideas into the subject.","examples":["Prices increased → The increase in prices…","People consume more meat → Higher meat consumption…","The government failed to act → The government's failure to act…"]},
+{"kind":"form","title":"Common pairs","rows":[["increase / decrease","an increase in, a decrease in"],["grow","growth in"],["develop","development of"],["consume","consumption of"],["pollute","pollution"],["decide","a decision to"],["able","ability to"],["important","the importance of"]]},
+{"kind":"mistakes","items":[["The increase of prices was sharp.","The increase in prices was sharp.","increase in."],["The develop of technology…","The development of technology…","Use the noun form."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Nominalisation is a hallmark of band 7+ writing: flexible, precise and less personal.","examples":["The rapid growth of cities has put pressure on public services.","A reduction in car use would improve air quality."]}],
+"practice":[
+{"t":"choice","q":"There was a sharp ___ unemployment.","o":["increase in","increase of"],"a":"increase in","x":"increase in + noun."},
+{"t":"gap","q":"The ___ (develop) of new technology has changed work.","a":["development"],"x":"Noun form."},
+{"t":"gap","q":"Meat ___ (consume) has risen worldwide.","a":["consumption"],"x":"Noun form of consume."},
+{"t":"error","q":"The [pollute] of rivers harms wildlife.","c":"pollution","x":"Noun needed after 'the'."},
+{"t":"pick","q":"Which is the most academic?","o":["Because people use cars more, the air is dirty.","Increased car use has led to a decline in air quality."],"a":"Increased car use has led to a decline in air quality.","x":"Nominalised and concise."},
+{"t":"build","q":"Rewrite with a noun subject: 'Cities grew rapidly, so housing became expensive.'","a":"The rapid growth of cities made housing expensive."}]}
+]}

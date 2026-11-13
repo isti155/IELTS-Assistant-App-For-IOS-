@@ -1,0 +1,86 @@
+{"id":"academic","title":"Academic grammar for band 7+","symbol":"graduationcap.fill","color":"red","units":[
+{"id":"hedging","title":"Hedging: cautious, precise claims","level":"C1","ielts":3,"skills":["Writing Task 2","Speaking Part 3"],
+"summary":"Sound academic and balanced instead of absolute.",
+"cards":[
+{"kind":"rule","title":"Why hedge?","body":"Academic writers avoid claims that are too strong to defend. Compare: *Video games cause violence.* (easy to disprove) with *Some research suggests that violent games may increase aggression in some children.* (careful and credible)","examples":[]},
+{"kind":"form","title":"Hedging tools","rows":[["Modal verbs","may, might, could, can"],["Verbs","tend to, seem to, appear to, suggest, indicate"],["Adverbs","generally, often, usually, largely, arguably, possibly"],["Adjectives","likely, possible, probable"],["Quantifiers","some, many, most, a number of"],["Phrases","to some extent, in many cases, it is likely that"]]},
+{"kind":"mistakes","items":[["Everyone agrees that technology is bad.","Many people believe that technology has some negative effects.","Avoid absolute claims."],["Social media always destroys relationships.","Social media can damage some relationships.","Hedge the claim."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Band 7+ Task Response rewards **well-supported, balanced** positions. Hedging also adds grammatical range.","examples":["Stricter laws are likely to reduce crime to some extent, although they are unlikely to solve the problem entirely."]}],
+"practice":[
+{"t":"pick","q":"Which sentence is best hedged?","o":["Homework is useless.","Homework is always useful.","Excessive homework may be counter-productive for younger children."],"a":"Excessive homework may be counter-productive for younger children.","x":"Precise and cautious."},
+{"t":"choice","q":"Young people ___ spend more time online than older adults.","o":["tend to","are always"],"a":"tend to","x":"Generalisation with a hedge."},
+{"t":"choice","q":"This policy ___ reduce unemployment, but the evidence is limited.","o":["will definitely","could"],"a":"could","x":"Cautious claim."},
+{"t":"error","q":"All teenagers [are] addicted to their phones.","c":"many teenagers appear to be","x":"Over-generalisation."},
+{"t":"gap","q":"It is ___ (like) that prices will continue to rise.","a":["likely"],"x":"it is likely that…"},
+{"t":"build","q":"Put the words in order.","a":"This approach is likely to be effective in many cases."}]},
+
+{"id":"linking-accuracy","title":"Linking words: accurate and varied","level":"B2","ielts":3,"skills":["Writing Task 2","Coherence and Cohesion"],
+"summary":"However, therefore, moreover — meaning, position and punctuation.",
+"cards":[
+{"kind":"form","title":"Linkers by function","rows":[["Adding","moreover, furthermore, in addition, also"],["Contrast","however, nevertheless, on the other hand, in contrast"],["Result","therefore, as a result, consequently, thus"],["Example","for example, for instance, such as, in particular"],["Concluding","in conclusion, overall, to sum up"]]},
+{"kind":"rule","title":"Position and punctuation","body":"Sentence linkers usually start a sentence and are followed by a comma: *However, …* They can also go after the subject: *This, however, is not the whole story.* **such as** introduces a list inside a sentence, not a new sentence.","examples":["Cars are convenient. However, they are expensive to run.","Many sports, such as football and cricket, are played in teams."]},
+{"kind":"rule","title":"Don't overuse","body":"Band 6 uses linkers 'mechanically'. Band 7 uses them **flexibly** — and also links ideas with reference (*this problem*, *such policies*).","examples":[]},
+{"kind":"mistakes","items":[["On the other hand, I think it is good. (no first hand)","However, I think it is good.","'On the other hand' contrasts with a previous side."],["Moreover, it is bad. (contrast)","However, it is bad.","Moreover adds a similar point."],["For example, cars, buses and trains.","For example, cars and buses cause pollution.","A full sentence is needed after 'For example,'."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Choosing the **right** linker (not just any linker) is part of Coherence and Cohesion.","examples":["Public transport is cheaper than driving. As a result, many commuters have switched to trains."]}],
+"practice":[
+{"t":"choice","q":"Tourism creates jobs. ___, it can damage the environment.","o":["However","Moreover"],"a":"However","x":"Contrast."},
+{"t":"choice","q":"Prices fell sharply. ___, sales doubled.","o":["As a result","In contrast"],"a":"As a result","x":"Result."},
+{"t":"choice","q":"Exercise improves mood. ___, it reduces the risk of disease.","o":["Furthermore","Nevertheless"],"a":"Furthermore","x":"Adding a similar point."},
+{"t":"error","q":"Many fruits, [for example] mangoes and bananas, are grown here.","c":"such as","x":"Inside a sentence → such as."},
+{"t":"pick","q":"Which is punctuated correctly?","o":["The plan is cheap, however it is slow.","The plan is cheap. However, it is slow.","The plan is cheap however, it is slow."],"a":"The plan is cheap. However, it is slow.","x":"New sentence + comma."},
+{"t":"build","q":"Put the words in order.","a":"This approach, however, has several disadvantages."}]},
+
+{"id":"cause-effect","title":"Expressing cause and effect","level":"B2","ielts":3,"skills":["Writing Task 2"],
+"summary":"lead to, result in, be caused by, contribute to, stem from.",
+"cards":[
+{"kind":"form","title":"Cause → effect","rows":[["lead to","Poor diet can lead to heart disease."],["result in","The policy resulted in lower emissions."],["cause","Smoking causes cancer."],["contribute to","Stress contributes to illness."],["give rise to","Urbanisation has given rise to new problems."]]},
+{"kind":"form","title":"Effect ← cause","rows":[["result from","Many accidents result from tiredness."],["be caused by","Floods are often caused by deforestation."],["stem from","The problem stems from poor planning."],["be due to / owing to","The delay was due to bad weather."],["be attributed to","The fall can be attributed to higher prices."]]},
+{"kind":"mistakes","items":[["This leads to people buy more.","This leads to people buying more. / This leads people to buy more.","lead to + noun/-ing."],["Obesity is resulted from poor diet.","Obesity results from poor diet.","'Result from' is not passive."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Problem–solution and cause essays need several ways to express causation; repeating 'cause' limits Lexical and Grammatical range.","examples":["The decline in rural employment has contributed to rapid urban growth."]}],
+"practice":[
+{"t":"choice","q":"Lack of sleep can ___ poor concentration.","o":["lead to","result from"],"a":"lead to","x":"Cause → effect."},
+{"t":"choice","q":"Many health problems ___ an unhealthy diet.","o":["result from","result in"],"a":"result from","x":"Effect ← cause."},
+{"t":"error","q":"Traffic congestion is [resulted from] the growing number of cars.","c":"caused by","x":"Use 'is caused by' or 'results from'."},
+{"t":"gap","q":"The increase can be attributed ___ lower interest rates.","a":["to"],"x":"attributed to."},
+{"t":"pick","q":"Which is correct?","o":["Advertising leads to children want junk food.","Advertising leads children to want junk food.","Advertising leads to children wanting junk food."],"a":"Advertising leads children to want junk food.","x":"lead + object + to-infinitive (or lead to + noun/-ing)."},
+{"t":"build","q":"Put the words in order.","a":"The problem stems from a lack of investment."}]},
+
+{"id":"opinion-generalisation","title":"Giving opinions and generalising","level":"B2","ielts":3,"skills":["Writing Task 2","Speaking Part 3"],
+"summary":"Clear positions without 'I think' in every sentence.",
+"cards":[
+{"kind":"form","title":"Stating your view","rows":[["Personal","In my view, … · I would argue that … · I firmly believe that …"],["Impersonal","It seems clear that … · There is little doubt that …"],["Partial","I agree to some extent that … · While I accept that …, I believe …"]]},
+{"kind":"form","title":"Talking about others","rows":[["Reporting","It is often argued that … · Some people claim that …"],["Generalising","In general, … · On the whole, … · Most people …"],["Exceptions","This is not always the case, however."]]},
+{"kind":"mistakes","items":[["According to me, …","In my opinion, …","'According to' is for other sources."],["I am agree with this.","I agree with this.","Agree is a verb."],["In my opinion, I think …","In my opinion, … / I think …","Don't use both."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Task 2 needs a **clear position throughout** (band 7). State it in the introduction and conclusion.","examples":["While technology has made life more convenient, I would argue that its effect on family life has been largely negative."]}],
+"practice":[
+{"t":"error","q":"[According to me], the government should act.","c":"In my opinion","x":"'According to' is for other sources."},
+{"t":"error","q":"I [am agree] that homework is useful.","c":"agree","x":"Agree is a verb."},
+{"t":"choice","q":"___ argued that zoos protect endangered species.","o":["It is often","It often is"],"a":"It is often","x":"Impersonal reporting."},
+{"t":"pick","q":"Which shows a partly agree position?","o":["I completely agree.","I agree to some extent, but…","I disagree with everything."],"a":"I agree to some extent, but…","x":"Partial agreement."},
+{"t":"build","q":"Put the words in order.","a":"I would argue that education should be free."}]},
+
+{"id":"cleft-emphasis","title":"Emphasis: cleft sentences","level":"C1","ielts":2,"skills":["Speaking Part 3","Writing Task 2"],
+"summary":"It is … that … and What … is … to focus the reader's attention.",
+"cards":[
+{"kind":"rule","title":"It-cleft","body":"**It is / was + focus + that / who + rest**","examples":["It is the cost of housing that worries young people most.","It was only in 2010 that the law changed."]},
+{"kind":"rule","title":"What-cleft","body":"**What + clause + is / was + focus**","examples":["What cities need is better public transport.","What surprised me was how friendly people were."]},
+{"kind":"mistakes","items":[["What we need it is more teachers.","What we need is more teachers.","No extra 'it'."],["It is the cost what matters.","It is the cost that matters.","Use that, not what."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Cleft sentences add emphasis and are a clear sign of grammatical range in Speaking.","examples":["What I really enjoy about my hometown is the sense of community."]}],
+"practice":[
+{"t":"choice","q":"___ young people need is good career advice.","o":["What","That"],"a":"What","x":"What-cleft."},
+{"t":"choice","q":"It is the government ___ should take responsibility.","o":["that","what"],"a":"that","x":"It-cleft."},
+{"t":"error","q":"What I like most [it] is the food.","c":"(delete)","x":"No extra 'it'."},
+{"t":"build","q":"Put the words in order.","a":"What cities need is better public transport."}]},
+
+{"id":"inversion","title":"Inversion for emphasis","level":"C1","ielts":1,"skills":["Writing Task 2"],
+"summary":"Not only…but also, rarely, never, only when — used sparingly.",
+"cards":[
+{"kind":"rule","title":"Negative adverbials first","body":"After **not only, never, rarely, seldom, hardly, only when, not until, under no circumstances** at the start, use **question word order**.","examples":["Not only does exercise improve health, but it also reduces stress.","Rarely have so many people moved to cities in such a short time.","Only when prices fall will people buy more."]},
+{"kind":"mistakes","items":[["Not only exercise improves health…","Not only does exercise improve health…","Inversion needed."],["Never I have seen…","Never have I seen…","Auxiliary before subject."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"One accurate inversion shows C1 range; several in a row sound unnatural.","examples":["Not only would free transport reduce traffic, but it would also cut emissions."]}],
+"practice":[
+{"t":"pick","q":"Which is correct?","o":["Not only it is cheap, but also fast.","Not only is it cheap, but it is also fast.","Not only it cheap is, but also fast."],"a":"Not only is it cheap, but it is also fast.","x":"Inversion after not only."},
+{"t":"error","q":"Rarely [people have] seen such growth.","c":"have people","x":"Auxiliary before subject."},
+{"t":"choice","q":"Only when the rain stopped ___ the match continue.","o":["did","does"],"a":"did","x":"Past inversion with did."},
+{"t":"build","q":"Put the words in order.","a":"Never have so many people used social media."}]}
+]}

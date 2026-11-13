@@ -1,0 +1,80 @@
+{"id":"accuracy","title":"Accuracy: agreement, word order and punctuation","symbol":"checkmark.seal.fill","color":"green","units":[
+{"id":"subject-verb-agreement","title":"Subject–verb agreement","level":"B1","ielts":3,"skills":["Writing Task 1","Writing Task 2","Grammatical Range"],
+"summary":"Singular subjects take singular verbs — even when other words get in the way.",
+"cards":[
+{"kind":"rule","title":"Find the real subject","body":"The verb agrees with the **head noun** of the subject, not with the nearest noun.","examples":["The number of students **is** rising.","The quality of the roads **has** improved.","One of the main reasons **is** cost."]},
+{"kind":"rule","title":"Singular words that look plural","body":"**news, economics, mathematics, physics** and **everyone, everybody, nobody, each, every** take singular verbs.","examples":["The news is worrying.","Everyone has a right to education."]},
+{"kind":"rule","title":"Plural words","body":"**people, police, children, cattle** are plural.","examples":["People are becoming more health-conscious.","The police are investigating."]},
+{"kind":"mistakes","items":[["The number of cars have increased.","The number of cars has increased.","Head noun = number."],["People is happier.","People are happier.","People is plural."],["One of the reasons are…","One of the reasons is…","Head noun = one."],["Everyone have a phone.","Everyone has a phone.","Everyone is singular."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Agreement errors are among the most frequent in all bands below 7. Check every sentence that starts with 'The number of', 'One of' or 'Each'.","examples":["The proportion of people who own a car has doubled."]}],
+"practice":[
+{"t":"choice","q":"The number of tourists ___ risen every year.","o":["has","have"],"a":"has","x":"Head noun 'number'."},
+{"t":"choice","q":"A number of students ___ complained.","o":["has","have"],"a":"have","x":"'A number of' = many → plural."},
+{"t":"choice","q":"The news ___ not good.","o":["is","are"],"a":"is","x":"News is uncountable, singular."},
+{"t":"error","q":"One of the biggest problems [are] traffic.","c":"is","x":"Head noun 'one'."},
+{"t":"error","q":"Each of the countries [have] its own system.","c":"has","x":"Each = singular."},
+{"t":"error","q":"Young people [is] more likely to use social media.","c":"are","x":"People = plural."},
+{"t":"gap","q":"The quality of public services ___ (have) declined.","a":["has"],"x":"Head noun 'quality'."},
+{"t":"pick","q":"Which sentence is correct?","o":["Mathematics are difficult for many students.","Mathematics is difficult for many students.","Mathematic is difficult for many students."],"a":"Mathematics is difficult for many students.","x":"Subject names in -ics are singular."},
+{"t":"build","q":"Put the words in order.","a":"The number of private schools has increased."}]},
+
+{"id":"agreement-tricky","title":"Tricky agreement: percentages, either/or, there is/are","level":"B2","ielts":3,"skills":["Writing Task 1"],
+"summary":"Percentages, fractions, collective nouns and 'there is/are' in data descriptions.",
+"cards":[
+{"kind":"rule","title":"Percentages and fractions","body":"The verb agrees with the noun after **of**.","examples":["20% of the population **lives** in cities. (population = singular)","20% of people **live** in cities. (people = plural)","Half of the money **was** spent."]},
+{"kind":"rule","title":"either…or / neither…nor","body":"The verb agrees with the **nearer** subject.","examples":["Neither the teacher nor the students were ready.","Either the students or the teacher is responsible."]},
+{"kind":"rule","title":"there is / there are","body":"Agrees with the noun that follows.","examples":["There is a large gap between rich and poor.","There are several reasons for this."]},
+{"kind":"mistakes","items":[["There is many reasons.","There are many reasons.","Plural noun follows."],["40% of the energy come from coal.","40% of the energy comes from coal.","Energy is uncountable."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Pie charts and tables constantly test this rule.","examples":["Just under a third of the waste was recycled, while the rest was sent to landfill."]}],
+"practice":[
+{"t":"choice","q":"About 60% of the land ___ used for farming.","o":["is","are"],"a":"is","x":"Land is uncountable."},
+{"t":"choice","q":"About 60% of adults ___ a smartphone.","o":["owns","own"],"a":"own","x":"Adults is plural."},
+{"t":"choice","q":"There ___ a sharp rise in sales in 2015.","o":["was","were"],"a":"was","x":"'a sharp rise' is singular."},
+{"t":"error","q":"There [is] several possible solutions.","c":"are","x":"Plural noun follows."},
+{"t":"choice","q":"Neither the government nor the citizens ___ satisfied.","o":["is","are"],"a":"are","x":"Nearer subject is plural."},
+{"t":"pick","q":"Which sentence is correct?","o":["Two thirds of the budget was spent on health.","Two thirds of the budget were spend on health.","Two third of the budget was spent on health."],"a":"Two thirds of the budget was spent on health.","x":"Budget is singular."},
+{"t":"build","q":"Put the words in order.","a":"There are several reasons for this trend."}]},
+
+{"id":"parallel-structure","title":"Parallel structure","level":"B2","ielts":2,"skills":["Writing Task 2"],
+"summary":"Keep items in a list in the same grammatical form.",
+"cards":[
+{"kind":"rule","title":"Same form in a list","body":"Items joined by **and, or, both…and, not only…but also** should have the same form.","examples":["✗ Exercise helps people to relax, sleeping better and lose weight.","✓ Exercise helps people relax, sleep better and lose weight."]},
+{"kind":"mistakes","items":[["Students should read widely, practising writing and to ask questions.","Students should read widely, practise writing and ask questions.","All base verbs."],["The job is interesting, challenging and pays well.","The job is interesting, challenging and well paid.","All adjectives."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Lists of reasons or solutions are common in Task 2; parallel structure keeps them clear.","examples":["Governments can tackle obesity by taxing sugar, regulating advertising and funding sports facilities."]}],
+"practice":[
+{"t":"choice","q":"I enjoy reading, swimming and ___.","o":["to cook","cooking"],"a":"cooking","x":"All -ing forms."},
+{"t":"error","q":"The plan is cheap, effective and [it is easy to manage].","c":"easy to manage","x":"Keep adjectives parallel."},
+{"t":"pick","q":"Which sentence is parallel?","o":["Cities should build parks, improving transport and reduce noise.","Cities should build parks, improve transport and reduce noise.","Cities should build parks, to improve transport and reducing noise."],"a":"Cities should build parks, improve transport and reduce noise.","x":"All base verbs."},
+{"t":"build","q":"Put the words in order.","a":"Reading improves vocabulary, concentration and imagination."}]},
+
+{"id":"questions-word-order","title":"Questions and word order","level":"B1","ielts":2,"skills":["Speaking"],
+"summary":"Direct questions, indirect questions and basic sentence order.",
+"cards":[
+{"kind":"rule","title":"Basic order","body":"**Subject + verb + object + place + time**.","examples":["I met my friends at the café yesterday."]},
+{"kind":"rule","title":"Direct questions","body":"**(Question word) + auxiliary + subject + verb**. Subject questions have no auxiliary.","examples":["Where do you live?","What happened? (subject question)"]},
+{"kind":"rule","title":"Indirect questions","body":"After *Could you tell me…, I wonder…, Do you know…* use **statement order**.","examples":["Could you tell me where the station is?","I'm not sure what the answer is."]},
+{"kind":"mistakes","items":[["Where you live?","Where do you live?","Auxiliary needed."],["Can you tell me where is the library?","Can you tell me where the library is?","Statement order."],["Who did call you?","Who called you?","Subject question: no 'did'."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"You may need to ask the examiner to clarify. Polite indirect questions sound natural.","examples":["Could you explain what you mean by 'traditional'?"]}],
+"practice":[
+{"t":"pick","q":"Which question is correct?","o":["What time the exam starts?","What time does the exam start?","What time does start the exam?"],"a":"What time does the exam start?","x":"Auxiliary + subject + verb."},
+{"t":"pick","q":"Which is correct?","o":["Do you know where is the bank?","Do you know where the bank is?","Do you know where does the bank is?"],"a":"Do you know where the bank is?","x":"Statement order in indirect questions."},
+{"t":"error","q":"Who [did break] the window?","c":"broke","x":"Subject question."},
+{"t":"build","q":"Put the words in order.","a":"Could you tell me what this word means?"},
+{"t":"build","q":"Put the words in order.","a":"I bought a new laptop in Dhaka last week."}]},
+
+{"id":"punctuation","title":"Punctuation: commas, semicolons, colons, apostrophes","level":"B1","ielts":2,"skills":["Writing Task 1","Writing Task 2"],
+"summary":"The punctuation that makes long sentences readable.",
+"cards":[
+{"kind":"rule","title":"Commas","body":"Use a comma:\n- after an introductory phrase or clause: *In 2010, …*, *Although…, …*\n- before *and/but/so* joining two full sentences\n- around non-defining clauses and in lists\nDon't put a comma between a subject and its verb.","examples":["In recent years, online shopping has grown rapidly.","Prices rose, but wages stayed the same."]},
+{"kind":"rule","title":"Semicolons and colons","body":"**;** joins two closely related sentences. **:** introduces a list or an explanation.","examples":["Some prefer cities; others prefer villages.","There are two main causes: poverty and lack of education."]},
+{"kind":"rule","title":"Apostrophes","body":"**'s** for possession and contractions. **its** = possessive; **it's** = it is. Avoid contractions in formal essays.","examples":["The country's economy grew.","The company lost its main client."]},
+{"kind":"mistakes","items":[["The government, should act.","The government should act.","No comma between subject and verb."],["it's main advantage","its main advantage","Possessive its."],["In conclusion I believe…","In conclusion, I believe…","Comma after an introductory phrase."]]},
+{"kind":"ielts","title":"Use it in IELTS","body":"Punctuation is assessed as part of Grammatical Range and Accuracy.","examples":["Overall, the most significant change was the rise in solar power."]}],
+"practice":[
+{"t":"punctuate","q":"Tap the word that should be followed by a comma.","w":["In","recent","years","more","people","have","moved","to","cities."],"targets":[2],"x":"Comma after the introductory phrase."},
+{"t":"punctuate","q":"Tap the word that should be followed by a comma.","w":["Although","the","course","is","expensive","many","students","enrol."],"targets":[4],"x":"Comma after the 'although' clause."},
+{"t":"choice","q":"The company increased ___ profits.","o":["its","it's"],"a":"its","x":"Possessive."},
+{"t":"pick","q":"Which is punctuated correctly?","o":["There are two reasons: cost and time.","There are two reasons; cost and time.","There are two reasons, cost, and time."],"a":"There are two reasons: cost and time.","x":"Colon introduces a list."},
+{"t":"error","q":"Many young [people,] prefer to rent.","c":"people","x":"No comma between subject and verb."},
+{"t":"build","q":"Put the words in order.","a":"Overall, the most popular option was the bus."}]}
+]}
