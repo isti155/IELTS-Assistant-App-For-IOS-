@@ -22,3 +22,7 @@ ml/data/nltk_data/
 # Optional 840 MB language model (not used by the app; rebuild with ml/scripts/train_llm.py)
 ml/models/ielts-llm/
 ml/models/ielts-llm-adapter/
+
+# Copyrighted grammar book and text extracted from it (kept on your own machine only)
+*Grammar*Book*.pdf
+ml/grammar/

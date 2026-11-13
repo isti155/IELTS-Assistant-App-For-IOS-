@@ -42,7 +42,7 @@ and follow a daily study plan. No account, no subscription, no internet needed.
 | 📖 | **Reading** | **1,051 practice tests** (14,188 questions, 7 question types) — every answer shows the evidence sentence, an explanation and how the question paraphrased the text. **263 full 40-question papers** |
 | ✍️ | **Writing** | **120 Task 1 visuals** (charts, tables, maps, processes) and **400 Task 2 questions**. Your answer is marked on the phone with bands for all four criteria, highlighted mistakes and a high-band sample to compare |
 | 🎙️ | **Speaking** | Full 3-part mock test with a spoken examiner, **149 cue cards**, **181 Part 1 topics**, a conversation partner and **88 real test transcripts** from band 3.5 to 9 |
-| 📐 | **Grammar** | A **61-unit IELTS grammar course** (B1–C1) with rules, form tables, common mistakes and 400 interactive questions — every unit marked **Essential / Important / Useful for IELTS**. Plus the Mentors' *Foundation Grammar & Writing* book with its exercises |
+| 📐 | **Grammar** | A **61-unit IELTS grammar course** (B1–C1) with rules, form tables, common mistakes and 400 interactive questions — every unit marked **Essential / Important / Useful for IELTS**. Plus a tab for the Mentors' *Foundation Grammar & Writing* book — add your own copy of the PDF (see below) |
 | 🔤 | **Vocabulary** | **9,485 words** (A1–C2) with meaning, pronunciation, real academic examples and synonyms. Flip flashcards, quizzes, listen-and-spell and a matching game, with spaced repetition |
 | 🎓 | **Tutor** | A personal **study plan** built from your test date and weakest skill, **4 daily tasks**, and a **25-lesson IELTS strategy course** |
 | 📚 | **Exam practice** | A companion for **Cambridge IELTS books 1–21**: timed answer sheets, automatic marking from your book's key, band conversion and a question-type mistake tracker |
@@ -205,6 +205,8 @@ ml/.venv/bin/python ml/scripts/build_vocab.py            # 9,485-word dictionary
 ml/.venv/bin/python ml/scripts/build_practice_content.py # reading, speaking and writing banks
 ```
 
+**Adding the Mentors' grammar book:** put your PDF in the project root (file name containing `Grammar` and `Book`) and run `ml/.venv/bin/python ml/scripts/build_grammar.py`. It fills `grammar.json`, and the **Mentors' book** tab appears in the app.
+
 An optional on-device language model (`ml/scripts/train_llm.py`, ~840 MB) can power free conversation replies; the app does not need it.
 
 ---
@@ -242,8 +244,8 @@ Checks band arithmetic, marking, every grammar and reading answer, the Core ML m
 | Task 1 visuals | `TraTacXiMuoi/Ielts_writing_task1_academic` |
 | Speaking questions & transcripts | `Binhminh1210/ieltsspeaking-testbank`, `Amanafif554/IELTS-Speaking-Clean-1` |
 | Vocabulary | English CEFR Wordlist (MIT), Princeton WordNet, CMU Pronouncing Dictionary |
-| Grammar book | *Foundation Grammar & Writing*, Mentors' Education Series (owner's copy) |
+| Grammar book | *Foundation Grammar & Writing*, Mentors' Education Series — **not included**; build from your own copy |
 
 IELTS is a registered trademark of the British Council, IDP: IELTS Australia and Cambridge University Press & Assessment.
 This project is not affiliated with them. Cambridge IELTS book content is **not** included.
-Some datasets and the grammar book are for personal study only — keep this repository **private**.
+The Mentors' grammar book is copyrighted and is not part of this repository.
