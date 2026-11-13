@@ -1,0 +1,24 @@
+# Local machine files
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Build output (recreated by Xcode / SwiftPM)
+build/
+DerivedData/
+.build/
+.swiftpm/
+Payload/
+*.ipa
+
+# Python environment and tool binaries (recreate with the commands in the README)
+ml/.venv/
+ml/.tools/
+
+# Raw downloads re-fetched by the ml/scripts (hundreds of MB)
+ml/data/raw/
+ml/data/nltk_data/
+
+# Optional 840 MB language model (not used by the app; rebuild with ml/scripts/train_llm.py)
+ml/models/ielts-llm/
+ml/models/ielts-llm-adapter/
